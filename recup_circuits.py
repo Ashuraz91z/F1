@@ -46,4 +46,4 @@ filtered_df = df[(df['lat'].isin(all_latitudes)) & (df['lng'].isin(all_longitude
 
 
 
-filtered_df.to_csv("data/clean/circuits_filtered.csv", index=False)
+filtered_df.to_csv("../alle.csv", index=False)
