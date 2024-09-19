@@ -37,4 +37,3 @@ results_df['driverName'] = results_df['driverName'].fillna('Pilote Inconnu')
 results_df['status'] = results_df['status'].fillna('Statut Inconnu')
 
 results_df.to_csv('final.csv', index=False)
-
