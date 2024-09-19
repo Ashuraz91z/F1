@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Azerbaijan Grand Prix,Pérez,6,1,1,1,25.0,51,2:13:36.410,8016410,45,2,1:44.687,206.432,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,11,2,2,2,18.0,51,+1.385,8017795,41,4,1:44.890,206.032,Finished
+2021,Azerbaijan Grand Prix,Gasly,4,3,3,3,15.0,51,+2.762,8019172,44,6,1:45.220,205.386,Finished
+2021,Azerbaijan Grand Prix,Leclerc,1,4,4,4,12.0,51,+3.828,8020238,46,8,1:45.382,205.071,Finished
+2021,Azerbaijan Grand Prix,Norris,9,5,5,5,10.0,51,+4.754,8021164,41,7,1:45.326,205.180,Finished
+2021,Azerbaijan Grand Prix,Alonso,8,6,6,6,8.0,51,+6.382,8022792,42,11,1:45.624,204.601,Finished
+2021,Azerbaijan Grand Prix,Tsunoda,7,7,7,7,6.0,51,+6.624,8023034,46,5,1:44.939,205.936,Finished
+2021,Azerbaijan Grand Prix,Sainz,5,8,8,8,4.0,51,+7.709,8024119,42,13,1:45.700,204.454,Finished
+2021,Azerbaijan Grand Prix,Ricciardo,13,9,9,9,2.0,51,+8.874,8025284,43,14,1:45.713,204.428,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,14,10,10,10,1.0,51,+9.576,8025986,43,10,1:45.601,204.645,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,20,11,11,11,0.0,51,+10.254,8026664,44,9,1:45.575,204.696,Finished
+2021,Azerbaijan Grand Prix,Bottas,10,12,12,12,0.0,51,+11.264,8027674,43,12,1:45.665,204.521,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,17,13,13,13,0.0,51,+14.241,8030651,41,18,1:47.624,200.799,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,18,14,14,14,0.0,51,+14.315,8030725,40,19,1:47.747,200.569,Finished
+2021,Azerbaijan Grand Prix,Hamilton,2,15,15,15,0.0,51,+17.668,8034078,43,3,1:44.769,206.270,Finished
+2021,Azerbaijan Grand Prix,Pilote Inconnu,16,16,16,16,0.0,51,+43.379,8059789,42,17,1:46.608,202.712,Finished
+2021,Azerbaijan Grand Prix,Russell,15,,R,17,0.0,48,,,43,15,1:45.959,203.954,Gearbox
+2021,Azerbaijan Grand Prix,Verstappen,3,,R,18,0.0,45,,,44,1,1:44.481,206.839,Accident
+2021,Azerbaijan Grand Prix,Stroll,19,,R,19,0.0,29,,,28,16,1:46.207,203.478,Accident
+2021,Azerbaijan Grand Prix,Ocon,12,,R,20,0.0,3,,,2,20,1:50.850,194.955,Turbo

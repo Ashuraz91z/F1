@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Mexico City Grand Prix,Verstappen,3,1,1,1,25.0,71,2:02:30.814,7350814,40,2,1:21.644,189.780,Finished
+2023,Mexico City Grand Prix,Hamilton,6,2,2,2,19.0,71,+13.875,7364689,71,1,1:21.334,190.503,Finished
+2023,Mexico City Grand Prix,Leclerc,1,3,3,3,15.0,71,+23.124,7373938,38,4,1:22.332,188.194,Finished
+2023,Mexico City Grand Prix,Sainz,2,4,4,4,12.0,71,+27.154,7377968,57,6,1:22.539,187.722,Finished
+2023,Mexico City Grand Prix,Norris,17,5,5,5,10.0,71,+33.266,7384080,71,3,1:21.944,189.085,Finished
+2023,Mexico City Grand Prix,Russell,8,6,6,6,8.0,71,+41.020,7391834,38,10,1:22.780,187.175,Finished
+2023,Mexico City Grand Prix,Ricciardo,4,7,7,7,6.0,71,+41.570,7392384,66,7,1:22.679,187.404,Finished
+2023,Mexico City Grand Prix,Piastri,7,8,8,8,4.0,71,+43.104,7393918,53,8,1:22.760,187.220,Finished
+2023,Mexico City Grand Prix,Albon,14,9,9,9,2.0,71,+48.573,7399387,65,9,1:22.773,187.191,Finished
+2023,Mexico City Grand Prix,Ocon,15,10,10,10,1.0,71,+1:02.879,7413693,66,11,1:22.976,186.733,Finished
+2023,Mexico City Grand Prix,Gasly,11,11,11,11,0.0,71,+1:06.208,7417022,43,16,1:23.230,186.163,Finished
+2023,Mexico City Grand Prix,Tsunoda,18,12,12,12,0.0,71,+1:18.982,7429796,11,5,1:22.501,187.808,Finished
+2023,Mexico City Grand Prix,Hülkenberg,12,13,13,13,0.0,71,+1:20.309,7431123,43,15,1:23.222,186.181,Finished
+2023,Mexico City Grand Prix,Zhou,10,14,14,14,0.0,71,+1:21.676,7432490,39,19,1:23.567,185.412,Finished
+2023,Mexico City Grand Prix,Bottas,9,15,15,15,0.0,71,+1:25.597,7436411,43,14,1:23.166,186.306,Finished
+2023,Mexico City Grand Prix,Sargeant,19,16,16,16,0.0,70,,,24,12,1:23.003,186.672,Retired
+2023,Mexico City Grand Prix,Stroll,0,17,17,17,0.0,66,,,43,17,1:23.257,186.103,Collision damage
+2023,Mexico City Grand Prix,Alonso,13,,R,18,0.0,47,,,40,18,1:23.531,185.492,Withdrew
+2023,Mexico City Grand Prix,Magnussen,16,,R,19,0.0,31,,,25,13,1:23.146,186.351,Accident
+2023,Mexico City Grand Prix,Pérez,5,,R,20,0.0,1,,,,0,,,Collision damage

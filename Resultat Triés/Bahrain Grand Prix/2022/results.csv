@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Bahrain Grand Prix,Leclerc,1,1,1,1,26.0,57,1:37:33.584,5853584,51,1,1:34.570,206.018,Finished
+2022,Bahrain Grand Prix,Sainz,3,2,2,2,18.0,57,+5.598,5859182,52,3,1:35.740,203.501,Finished
+2022,Bahrain Grand Prix,Hamilton,5,3,3,3,15.0,57,+9.675,5863259,53,5,1:36.228,202.469,Finished
+2022,Bahrain Grand Prix,Russell,9,4,4,4,12.0,57,+11.211,5864795,56,6,1:36.302,202.313,Finished
+2022,Bahrain Grand Prix,Magnussen,7,5,5,5,10.0,57,+14.754,5868338,53,8,1:36.623,201.641,Finished
+2022,Bahrain Grand Prix,Bottas,6,6,6,6,8.0,57,+16.119,5869703,53,7,1:36.599,201.691,Finished
+2022,Bahrain Grand Prix,Ocon,11,7,7,7,6.0,57,+19.423,5873007,53,14,1:37.110,200.630,Finished
+2022,Bahrain Grand Prix,Tsunoda,16,8,8,8,4.0,57,+20.386,5873970,53,13,1:37.104,200.642,Finished
+2022,Bahrain Grand Prix,Alonso,8,9,9,9,2.0,57,+22.390,5875974,44,10,1:36.733,201.412,Finished
+2022,Bahrain Grand Prix,Zhou,15,10,10,10,1.0,57,+23.064,5876648,39,9,1:36.685,201.512,Finished
+2022,Bahrain Grand Prix,Pilote Inconnu,12,11,11,11,0.0,57,+32.574,5886158,37,11,1:36.956,200.948,Finished
+2022,Bahrain Grand Prix,Stroll,19,12,12,12,0.0,57,+45.873,5899457,49,15,1:37.146,200.555,Finished
+2022,Bahrain Grand Prix,Albon,14,13,13,13,0.0,57,+53.932,5907516,50,18,1:37.355,200.125,Finished
+2022,Bahrain Grand Prix,Ricciardo,18,14,14,14,0.0,57,+54.975,5908559,50,16,1:37.261,200.318,Finished
+2022,Bahrain Grand Prix,Norris,13,15,15,15,0.0,57,+56.335,5909919,51,12,1:36.988,200.882,Finished
+2022,Bahrain Grand Prix,Pilote Inconnu,20,16,16,16,0.0,57,+1:01.795,5915379,51,20,1:38.251,198.300,Finished
+2022,Bahrain Grand Prix,Hülkenberg,17,17,17,17,0.0,57,+1:03.829,5917413,49,19,1:38.201,198.401,Finished
+2022,Bahrain Grand Prix,Pérez,4,18,18,18,0.0,56,,,52,4,1:36.089,202.762,Fuel pressure
+2022,Bahrain Grand Prix,Verstappen,2,19,19,19,0.0,54,,,51,2,1:35.440,204.140,Fuel pressure
+2022,Bahrain Grand Prix,Gasly,10,,R,20,0.0,44,,,34,17,1:37.324,200.189,Power Unit

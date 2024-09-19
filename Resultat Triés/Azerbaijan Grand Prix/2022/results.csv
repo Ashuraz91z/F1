@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Azerbaijan Grand Prix,Verstappen,3,1,1,1,25.0,51,1:34:05.941,5645941,50,2,1:46.050,203.779,Finished
+2022,Azerbaijan Grand Prix,Pérez,2,2,2,2,19.0,51,+20.823,5666764,36,1,1:46.046,203.787,Finished
+2022,Azerbaijan Grand Prix,Russell,5,3,3,3,15.0,51,+45.995,5691936,42,4,1:47.177,201.636,Finished
+2022,Azerbaijan Grand Prix,Hamilton,7,4,4,4,12.0,51,+1:11.679,5717620,39,3,1:47.044,201.887,Finished
+2022,Azerbaijan Grand Prix,Gasly,6,5,5,5,10.0,51,+1:17.299,5723240,39,16,1:48.519,199.143,Finished
+2022,Azerbaijan Grand Prix,Pilote Inconnu,9,6,6,6,8.0,51,+1:24.099,5730040,41,12,1:48.206,199.719,Finished
+2022,Azerbaijan Grand Prix,Alonso,10,7,7,7,6.0,51,+1:28.596,5734537,49,8,1:47.989,200.120,Finished
+2022,Azerbaijan Grand Prix,Ricciardo,12,8,8,8,4.0,51,+1:32.207,5738148,44,13,1:48.276,199.589,Finished
+2022,Azerbaijan Grand Prix,Norris,11,9,9,9,2.0,51,+1:32.556,5738497,37,9,1:47.997,200.105,Finished
+2022,Azerbaijan Grand Prix,Ocon,13,10,10,10,1.0,51,+1:48.184,5754125,36,14,1:48.297,199.551,Finished
+2022,Azerbaijan Grand Prix,Bottas,15,11,11,11,0.0,50,,,42,11,1:48.179,199.768,+1 Lap
+2022,Azerbaijan Grand Prix,Albon,17,12,12,12,0.0,50,,,48,7,1:47.966,200.163,+1 Lap
+2022,Azerbaijan Grand Prix,Tsunoda,8,13,13,13,0.0,50,,,42,5,1:47.523,200.987,+1 Lap
+2022,Azerbaijan Grand Prix,Pilote Inconnu,20,14,14,14,0.0,50,,,40,15,1:48.410,199.343,+1 Lap
+2022,Azerbaijan Grand Prix,Pilote Inconnu,18,15,15,15,0.0,50,,,37,20,1:49.583,197.209,+1 Lap
+2022,Azerbaijan Grand Prix,Stroll,19,16,16,16,0.0,46,,,38,10,1:48.038,200.029,Vibrations
+2022,Azerbaijan Grand Prix,Magnussen,16,,R,17,0.0,31,,,12,18,1:48.789,198.648,Power Unit
+2022,Azerbaijan Grand Prix,Zhou,14,,R,18,0.0,23,,,12,17,1:48.723,198.769,Hydraulics
+2022,Azerbaijan Grand Prix,Leclerc,1,,R,19,0.0,21,,,13,6,1:47.531,200.972,Power Unit
+2022,Azerbaijan Grand Prix,Sainz,4,,R,20,0.0,8,,,3,19,1:48.978,198.304,Hydraulics

@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2024,Austrian Grand Prix,Russell,3,1,1,1,25.0,71,1:24:22.798,5062798,48,5,1:09.164,224.752,Finished
+2024,Austrian Grand Prix,Piastri,7,2,2,2,18.0,71,+1.906,5064704,56,4,1:08.697,226.280,Finished
+2024,Austrian Grand Prix,Sainz,4,3,3,3,15.0,71,+4.533,5067331,56,6,1:09.282,224.369,Finished
+2024,Austrian Grand Prix,Hamilton,5,4,4,4,12.0,71,+23.142,5085940,61,7,1:09.562,223.466,Finished
+2024,Austrian Grand Prix,Verstappen,1,5,5,5,10.0,71,+37.253,5100051,68,2,1:07.719,229.548,Finished
+2024,Austrian Grand Prix,Hülkenberg,9,6,6,6,8.0,71,+54.088,5116886,51,14,1:10.215,221.388,Finished
+2024,Austrian Grand Prix,Pérez,8,7,7,7,6.0,71,+54.672,5117470,56,11,1:09.694,223.043,Finished
+2024,Austrian Grand Prix,Magnussen,12,8,8,8,4.0,71,+1:00.355,5123153,45,12,1:10.125,221.672,Finished
+2024,Austrian Grand Prix,Ricciardo,11,9,9,9,2.0,71,+1:01.169,5123967,49,18,1:10.426,220.725,Finished
+2024,Austrian Grand Prix,Gasly,13,10,10,10,1.0,71,+1:01.766,5124564,45,9,1:09.609,223.315,Finished
+2024,Austrian Grand Prix,Leclerc,6,11,11,11,0.0,71,+1:07.056,5129854,55,8,1:09.584,223.396,Finished
+2024,Austrian Grand Prix,Ocon,10,12,12,12,0.0,71,+1:08.325,5131123,45,10,1:09.649,223.187,Finished
+2024,Austrian Grand Prix,Stroll,17,13,13,13,0.0,70,,,54,13,1:10.143,221.615,+1 Lap
+2024,Austrian Grand Prix,Tsunoda,14,14,14,14,0.0,70,,,54,15,1:10.318,221.064,+1 Lap
+2024,Austrian Grand Prix,Albon,16,15,15,15,0.0,70,,,41,16,1:10.364,220.919,+1 Lap
+2024,Austrian Grand Prix,Bottas,18,16,16,16,0.0,70,,,48,19,1:10.449,220.653,+1 Lap
+2024,Austrian Grand Prix,Zhou,20,17,17,17,0.0,70,,,54,20,1:10.470,220.587,+1 Lap
+2024,Austrian Grand Prix,Alonso,15,18,18,18,0.0,70,,,70,1,1:07.694,229.633,+1 Lap
+2024,Austrian Grand Prix,Sargeant,19,19,19,19,0.0,69,,,60,17,1:10.406,220.788,+2 Laps
+2024,Austrian Grand Prix,Norris,2,20,20,20,0.0,64,,,53,3,1:08.016,228.546,+7 Laps

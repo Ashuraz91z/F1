@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Qatar Grand Prix,Hamilton,1,1,1,1,25.0,57,1:24:28.471,5068471,50,2,1:25.084,227.633,Finished
+2021,Qatar Grand Prix,Verstappen,7,2,2,2,19.0,57,+25.743,5094214,57,1,1:23.196,232.799,Finished
+2021,Qatar Grand Prix,Alonso,3,3,3,3,15.0,57,+59.457,5127928,48,10,1:26.682,223.437,Finished
+2021,Qatar Grand Prix,Pérez,11,4,4,4,12.0,57,+1:02.306,5130777,49,3,1:25.613,226.227,Finished
+2021,Qatar Grand Prix,Ocon,9,5,5,5,10.0,57,+1:20.570,5149041,46,13,1:27.061,222.464,Finished
+2021,Qatar Grand Prix,Stroll,12,6,6,6,8.0,57,+1:21.274,5149745,44,17,1:27.356,221.713,Finished
+2021,Qatar Grand Prix,Sainz,5,7,7,7,6.0,57,+1:21.911,5150382,46,9,1:26.570,223.726,Finished
+2021,Qatar Grand Prix,Leclerc,13,8,8,8,4.0,57,+1:23.126,5151597,46,8,1:26.555,223.765,Finished
+2021,Qatar Grand Prix,Norris,4,9,9,9,2.0,56,,,51,4,1:25.746,225.876,+1 Lap
+2021,Qatar Grand Prix,Pilote Inconnu,10,10,10,10,1.0,56,,,53,7,1:26.434,224.078,+1 Lap
+2021,Qatar Grand Prix,Gasly,2,11,11,11,0.0,56,,,46,11,1:27.019,222.572,+1 Lap
+2021,Qatar Grand Prix,Ricciardo,14,12,12,12,0.0,56,,,50,14,1:27.198,222.115,+1 Lap
+2021,Qatar Grand Prix,Tsunoda,8,13,13,13,0.0,56,,,50,12,1:27.043,222.510,+1 Lap
+2021,Qatar Grand Prix,Pilote Inconnu,16,14,14,14,0.0,56,,,53,6,1:26.358,224.275,+1 Lap
+2021,Qatar Grand Prix,Pilote Inconnu,18,15,15,15,0.0,56,,,40,18,1:27.823,220.534,+1 Lap
+2021,Qatar Grand Prix,Pilote Inconnu,19,16,16,16,0.0,56,,,46,19,1:28.412,219.065,+1 Lap
+2021,Qatar Grand Prix,Russell,15,17,17,17,0.0,55,,,55,5,1:25.768,225.818,+2 Laps
+2021,Qatar Grand Prix,Pilote Inconnu,20,18,18,18,0.0,55,,,55,16,1:27.340,221.754,+2 Laps
+2021,Qatar Grand Prix,Pilote Inconnu,17,,R,19,0.0,50,,,44,20,1:28.732,218.275,Puncture
+2021,Qatar Grand Prix,Bottas,6,,R,20,0.0,48,,,39,15,1:27.246,221.992,Damage

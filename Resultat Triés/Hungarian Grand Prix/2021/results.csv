@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Hungarian Grand Prix,Ocon,8,1,1,1,25.0,70,2:04:43.199,7483199,54,5,1:21.421,193.704,Finished
+2021,Hungarian Grand Prix,Hamilton,1,2,2,2,18.0,70,+2.736,7485935,49,2,1:18.715,200.363,Finished
+2021,Hungarian Grand Prix,Sainz,15,3,3,3,15.0,70,+15.018,7498217,54,6,1:21.423,193.699,Finished
+2021,Hungarian Grand Prix,Alonso,9,4,4,4,12.0,70,+15.651,7498850,41,3,1:20.359,196.264,Finished
+2021,Hungarian Grand Prix,Gasly,5,5,5,5,11.0,70,+1:03.614,7546813,70,1,1:18.394,201.183,Finished
+2021,Hungarian Grand Prix,Tsunoda,16,6,6,6,8.0,70,+1:15.803,7559002,43,10,1:22.450,191.286,Finished
+2021,Hungarian Grand Prix,Pilote Inconnu,18,7,7,7,6.0,70,+1:17.910,7561109,62,14,1:22.831,190.406,Finished
+2021,Hungarian Grand Prix,Russell,17,8,8,8,4.0,70,+1:19.094,7562293,62,9,1:22.112,192.074,Finished
+2021,Hungarian Grand Prix,Verstappen,3,9,9,9,2.0,70,+1:20.244,7563443,43,4,1:20.945,194.843,Finished
+2021,Hungarian Grand Prix,Pilote Inconnu,13,10,10,10,1.0,69,,,58,8,1:21.518,193.473,+1 Lap
+2021,Hungarian Grand Prix,Ricciardo,11,11,11,11,0.0,69,,,58,13,1:22.802,190.473,+1 Lap
+2021,Hungarian Grand Prix,Pilote Inconnu,20,12,12,12,0.0,69,,,44,11,1:22.711,190.683,+1 Lap
+2021,Hungarian Grand Prix,Pilote Inconnu,0,13,13,13,0.0,69,,,44,12,1:22.736,190.625,+1 Lap
+2021,Hungarian Grand Prix,Pilote Inconnu,19,,R,14,0.0,3,,,,0,,,Collision
+2021,Hungarian Grand Prix,Norris,6,,R,15,0.0,2,,,,0,,,Collision
+2021,Hungarian Grand Prix,Bottas,2,,R,16,0.0,0,,,,0,,,Collision
+2021,Hungarian Grand Prix,Pérez,4,,R,17,0.0,0,,,,0,,,Collision
+2021,Hungarian Grand Prix,Leclerc,7,,R,18,0.0,0,,,,0,,,Collision
+2021,Hungarian Grand Prix,Stroll,12,,R,19,0.0,0,,,,0,,,Collision
+2021,Hungarian Grand Prix,Pilote Inconnu,10,,D,20,0.0,70,,,60,7,1:21.459,193.613,Disqualified

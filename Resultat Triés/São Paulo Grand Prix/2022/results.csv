@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,São Paulo Grand Prix,Russell,1,1,1,1,26.0,71,1:38:34.044,5914044,61,1,1:13.785,210.237,Finished
+2022,São Paulo Grand Prix,Hamilton,2,2,2,2,18.0,71,+1.529,5915573,63,2,1:13.942,209.791,Finished
+2022,São Paulo Grand Prix,Sainz,7,3,3,3,15.0,71,+4.051,5918095,65,3,1:13.953,209.760,Finished
+2022,São Paulo Grand Prix,Leclerc,5,4,4,4,12.0,71,+8.441,5922485,63,6,1:14.253,208.912,Finished
+2022,São Paulo Grand Prix,Alonso,17,5,5,5,10.0,71,+9.561,5923605,62,4,1:14.164,209.163,Finished
+2022,São Paulo Grand Prix,Verstappen,3,6,6,6,8.0,71,+10.056,5924100,64,5,1:14.195,209.076,Finished
+2022,São Paulo Grand Prix,Pérez,4,7,7,7,6.0,71,+14.080,5928124,62,7,1:14.283,208.828,Finished
+2022,São Paulo Grand Prix,Ocon,16,8,8,8,4.0,71,+18.690,5932734,65,9,1:15.093,206.575,Finished
+2022,São Paulo Grand Prix,Bottas,14,9,9,9,2.0,71,+22.552,5936596,62,14,1:15.511,205.432,Finished
+2022,São Paulo Grand Prix,Stroll,15,10,10,10,1.0,71,+23.552,5937596,50,8,1:14.831,207.299,Finished
+2022,São Paulo Grand Prix,Pilote Inconnu,9,11,11,11,0.0,71,+26.183,5940227,64,15,1:15.549,205.328,Finished
+2022,São Paulo Grand Prix,Zhou,13,12,12,12,0.0,71,+29.325,5943369,64,17,1:15.802,204.643,Finished
+2022,São Paulo Grand Prix,Pilote Inconnu,12,13,13,13,0.0,71,+29.899,5943943,63,10,1:15.251,206.142,Finished
+2022,São Paulo Grand Prix,Gasly,10,14,14,14,0.0,71,+31.867,5945911,64,12,1:15.327,205.934,Finished
+2022,São Paulo Grand Prix,Albon,19,15,15,15,0.0,71,+36.016,5950060,49,16,1:15.613,205.155,Finished
+2022,São Paulo Grand Prix,Pilote Inconnu,18,16,16,16,0.0,71,+37.038,5951082,59,11,1:15.327,205.934,Finished
+2022,São Paulo Grand Prix,Tsunoda,0,17,17,17,0.0,70,,,63,13,1:15.508,205.440,+1 Lap
+2022,São Paulo Grand Prix,Norris,6,,R,18,0.0,50,,,48,18,1:15.855,204.500,Gearbox
+2022,São Paulo Grand Prix,Magnussen,8,,R,19,0.0,0,,,,0,,,Collision
+2022,São Paulo Grand Prix,Ricciardo,11,,R,20,0.0,0,,,,0,,,Collision

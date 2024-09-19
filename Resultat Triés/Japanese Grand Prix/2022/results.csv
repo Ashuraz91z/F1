@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Japanese Grand Prix,Verstappen,1,1,1,1,25.0,28,3:01:44.004,10904004,10,4,1:44.911,199.266,Finished
+2022,Japanese Grand Prix,Pérez,4,2,2,2,18.0,28,+27.066,10931070,11,9,1:46.120,196.995,Finished
+2022,Japanese Grand Prix,Leclerc,2,3,3,3,15.0,28,+31.763,10935767,10,3,1:44.489,200.070,Finished
+2022,Japanese Grand Prix,Ocon,5,4,4,4,12.0,28,+39.685,10943689,11,11,1:46.559,196.184,Finished
+2022,Japanese Grand Prix,Hamilton,6,5,5,5,10.0,28,+40.326,10944330,11,7,1:45.530,198.097,Finished
+2022,Japanese Grand Prix,Pilote Inconnu,9,6,6,6,8.0,28,+46.358,10950362,13,12,1:46.964,195.441,Finished
+2022,Japanese Grand Prix,Alonso,7,7,7,7,6.0,28,+46.369,10950373,25,2,1:44.412,200.218,Finished
+2022,Japanese Grand Prix,Russell,8,8,8,8,4.0,28,+47.661,10951665,21,13,1:47.004,195.368,Finished
+2022,Japanese Grand Prix,Pilote Inconnu,20,9,9,9,2.0,28,+1:10.143,10974147,12,18,1:48.371,192.904,Finished
+2022,Japanese Grand Prix,Norris,10,10,10,10,1.0,28,+1:10.782,10974786,8,17,1:48.175,193.253,Finished
+2022,Japanese Grand Prix,Ricciardo,11,11,11,11,0.0,28,+1:12.877,10976881,11,15,1:47.843,193.848,Finished
+2022,Japanese Grand Prix,Stroll,19,12,12,12,0.0,28,+1:13.904,10977908,21,5,1:45.205,198.709,Finished
+2022,Japanese Grand Prix,Tsunoda,13,13,13,13,0.0,28,+1:15.599,10979603,22,8,1:45.893,197.418,Finished
+2022,Japanese Grand Prix,Magnussen,18,14,14,14,0.0,28,+1:26.016,10990020,10,16,1:48.072,193.437,Finished
+2022,Japanese Grand Prix,Bottas,12,15,15,15,0.0,28,+1:26.496,10990500,11,14,1:47.820,193.889,Finished
+2022,Japanese Grand Prix,Zhou,14,16,16,16,0.0,28,+1:27.043,10991047,20,1,1:44.411,200.220,Finished
+2022,Japanese Grand Prix,Pilote Inconnu,15,17,17,17,0.0,28,+1:32.523,10996527,22,6,1:45.387,198.366,Finished
+2022,Japanese Grand Prix,Gasly,17,18,18,18,0.0,28,+1:48.091,11012095,13,10,1:46.545,196.210,Finished
+2022,Japanese Grand Prix,Sainz,3,,R,19,0.0,0,,,,0,,,Accident
+2022,Japanese Grand Prix,Albon,16,,R,20,0.0,0,,,,0,,,Hydraulics

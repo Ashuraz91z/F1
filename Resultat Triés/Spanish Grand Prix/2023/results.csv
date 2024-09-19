@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Spanish Grand Prix,Verstappen,1,1,1,1,26.0,66,1:27:57.940,5277940,61,1,1:16.330,219.641,Finished
+2023,Spanish Grand Prix,Hamilton,4,2,2,2,18.0,66,+24.090,5302030,62,3,1:16.676,218.649,Finished
+2023,Spanish Grand Prix,Russell,12,3,3,3,15.0,66,+32.389,5310329,48,5,1:17.875,215.283,Finished
+2023,Spanish Grand Prix,Pérez,11,4,4,4,12.0,66,+35.812,5313752,52,2,1:16.666,218.678,Finished
+2023,Spanish Grand Prix,Sainz,2,5,5,5,10.0,66,+45.698,5323638,60,11,1:18.403,213.833,Finished
+2023,Spanish Grand Prix,Stroll,5,6,6,6,8.0,66,+1:03.320,5341260,56,14,1:18.722,212.967,Finished
+2023,Spanish Grand Prix,Alonso,8,7,7,7,6.0,66,+1:04.127,5342067,49,7,1:18.083,214.709,Finished
+2023,Spanish Grand Prix,Ocon,6,8,8,8,4.0,66,+1:09.242,5347182,54,18,1:18.946,212.362,Finished
+2023,Spanish Grand Prix,Zhou,13,9,9,9,2.0,66,+1:11.878,5349818,38,15,1:18.753,212.883,Finished
+2023,Spanish Grand Prix,Gasly,10,10,10,10,1.0,66,+1:13.530,5351470,41,10,1:18.375,213.910,Finished
+2023,Spanish Grand Prix,Leclerc,19,11,11,11,0.0,66,+1:14.419,5352359,52,9,1:18.357,213.959,Finished
+2023,Spanish Grand Prix,Tsunoda,15,12,12,12,0.0,66,+1:15.416,5353356,59,17,1:18.904,212.475,Finished
+2023,Spanish Grand Prix,Piastri,9,13,13,13,0.0,65,,,41,13,1:18.679,213.083,+1 Lap
+2023,Spanish Grand Prix,Pilote Inconnu,14,14,14,14,0.0,65,,,41,12,1:18.594,213.313,+1 Lap
+2023,Spanish Grand Prix,Hülkenberg,7,15,15,15,0.0,65,,,53,16,1:18.776,212.821,+1 Lap
+2023,Spanish Grand Prix,Albon,18,16,16,16,0.0,65,,,59,19,1:19.133,211.861,+1 Lap
+2023,Spanish Grand Prix,Norris,3,17,17,17,0.0,65,,,55,4,1:17.182,217.216,+1 Lap
+2023,Spanish Grand Prix,Magnussen,17,18,18,18,0.0,65,,,44,6,1:18.069,214.748,+1 Lap
+2023,Spanish Grand Prix,Bottas,16,19,19,19,0.0,65,,,50,8,1:18.242,214.273,+1 Lap
+2023,Spanish Grand Prix,Sargeant,20,20,20,20,0.0,65,,,41,20,1:19.247,211.556,+1 Lap

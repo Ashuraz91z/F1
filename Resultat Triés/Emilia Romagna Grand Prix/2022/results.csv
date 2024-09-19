@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Emilia Romagna Grand Prix,Verstappen,1,1,1,1,26.0,63,1:32:07.986,5527986,55,1,1:18.446,225.281,Finished
+2022,Emilia Romagna Grand Prix,Pérez,3,2,2,2,18.0,63,+16.527,5544513,52,3,1:18.949,223.845,Finished
+2022,Emilia Romagna Grand Prix,Norris,5,3,3,3,15.0,63,+34.834,5562820,61,7,1:20.903,218.439,Finished
+2022,Emilia Romagna Grand Prix,Russell,11,4,4,4,12.0,63,+42.506,5570492,57,8,1:20.962,218.280,Finished
+2022,Emilia Romagna Grand Prix,Bottas,7,5,5,5,10.0,63,+43.181,5571167,43,6,1:20.758,218.831,Finished
+2022,Emilia Romagna Grand Prix,Leclerc,2,6,6,6,8.0,63,+56.072,5584058,63,2,1:18.574,224.914,Finished
+2022,Emilia Romagna Grand Prix,Tsunoda,12,7,7,7,6.0,63,+1:01.110,5589096,61,5,1:20.544,219.412,Finished
+2022,Emilia Romagna Grand Prix,Pilote Inconnu,13,8,8,8,4.0,63,+1:10.892,5598878,47,9,1:21.211,217.610,Finished
+2022,Emilia Romagna Grand Prix,Magnussen,8,9,9,9,2.0,63,+1:15.260,5603246,61,10,1:21.238,217.538,Finished
+2022,Emilia Romagna Grand Prix,Stroll,15,10,10,10,1.0,62,,,46,16,1:21.750,216.176,+1 Lap
+2022,Emilia Romagna Grand Prix,Albon,18,11,11,11,0.0,62,,,61,17,1:21.757,216.157,+1 Lap
+2022,Emilia Romagna Grand Prix,Gasly,17,12,12,12,0.0,62,,,34,15,1:21.713,216.274,+1 Lap
+2022,Emilia Romagna Grand Prix,Hamilton,14,13,13,13,0.0,62,,,50,13,1:21.419,217.054,+1 Lap
+2022,Emilia Romagna Grand Prix,Ocon,16,14,14,14,0.0,62,,,37,18,1:21.887,215.814,+1 Lap
+2022,Emilia Romagna Grand Prix,Zhou,0,15,15,15,0.0,62,,,61,11,1:21.286,217.410,+1 Lap
+2022,Emilia Romagna Grand Prix,Pilote Inconnu,19,16,16,16,0.0,62,,,62,12,1:21.338,217.271,+1 Lap
+2022,Emilia Romagna Grand Prix,Pilote Inconnu,10,17,17,17,0.0,62,,,55,4,1:18.999,223.704,+1 Lap
+2022,Emilia Romagna Grand Prix,Ricciardo,6,18,18,18,0.0,62,,,61,14,1:21.577,216.634,+1 Lap
+2022,Emilia Romagna Grand Prix,Alonso,9,,R,19,0.0,6,,,5,19,1:39.685,177.282,Collision damage
+2022,Emilia Romagna Grand Prix,Sainz,4,,R,20,0.0,0,,,,0,,,Collision

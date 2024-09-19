@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Mexico City Grand Prix,Verstappen,3,1,1,1,25.0,71,1:38:39.086,5919086,52,2,1:18.999,196.134,Finished
+2021,Mexico City Grand Prix,Hamilton,2,2,2,2,18.0,71,+16.555,5935641,66,4,1:19.820,194.116,Finished
+2021,Mexico City Grand Prix,Pérez,4,3,3,3,15.0,71,+17.752,5936838,49,3,1:19.468,194.976,Finished
+2021,Mexico City Grand Prix,Gasly,5,4,4,4,12.0,71,+1:03.845,5982931,66,7,1:20.510,192.453,Finished
+2021,Mexico City Grand Prix,Leclerc,8,5,5,5,10.0,71,+1:21.037,6000123,63,9,1:20.665,192.083,Finished
+2021,Mexico City Grand Prix,Sainz,6,6,6,6,8.0,70,,,63,5,1:20.081,193.484,+1 Lap
+2021,Mexico City Grand Prix,Pilote Inconnu,9,7,7,7,6.0,70,,,70,6,1:20.460,192.572,+1 Lap
+2021,Mexico City Grand Prix,Pilote Inconnu,10,8,8,8,4.0,70,,,63,11,1:20.713,191.969,+1 Lap
+2021,Mexico City Grand Prix,Alonso,12,9,9,9,2.0,70,,,54,10,1:20.711,191.973,+1 Lap
+2021,Mexico City Grand Prix,Norris,18,10,10,10,1.0,70,,,67,8,1:20.617,192.197,+1 Lap
+2021,Mexico City Grand Prix,Pilote Inconnu,11,11,11,11,0.0,70,,,68,16,1:21.523,190.061,+1 Lap
+2021,Mexico City Grand Prix,Ricciardo,7,12,12,12,0.0,70,,,40,13,1:21.069,191.126,+1 Lap
+2021,Mexico City Grand Prix,Ocon,19,13,13,13,0.0,70,,,67,14,1:21.348,190.470,+1 Lap
+2021,Mexico City Grand Prix,Stroll,20,14,14,14,0.0,69,,,61,12,1:20.930,191.454,+2 Laps
+2021,Mexico City Grand Prix,Bottas,1,15,15,15,0.0,69,,,69,1,1:17.774,199.223,+2 Laps
+2021,Mexico City Grand Prix,Russell,16,16,16,16,0.0,69,,,61,18,1:22.016,188.919,+2 Laps
+2021,Mexico City Grand Prix,Pilote Inconnu,13,17,17,17,0.0,69,,,66,17,1:21.546,190.008,+2 Laps
+2021,Mexico City Grand Prix,Pilote Inconnu,15,18,18,18,0.0,68,,,61,15,1:21.402,190.344,+3 Laps
+2021,Mexico City Grand Prix,Pilote Inconnu,14,,R,19,0.0,0,,,,0,,,Collision
+2021,Mexico City Grand Prix,Tsunoda,17,,R,20,0.0,0,,,,0,,,Collision

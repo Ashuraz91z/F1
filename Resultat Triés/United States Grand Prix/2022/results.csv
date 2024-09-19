@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,United States Grand Prix,Verstappen,2,1,1,1,25.0,56,1:42:11.687,6131687,37,2,1:39.541,199.383,Finished
+2022,United States Grand Prix,Hamilton,3,2,2,2,18.0,56,+5.023,6136710,45,5,1:39.830,198.805,Finished
+2022,United States Grand Prix,Leclerc,12,3,3,3,15.0,56,+7.501,6139188,37,4,1:39.731,199.003,Finished
+2022,United States Grand Prix,Pérez,9,4,4,4,12.0,56,+8.293,6139980,44,3,1:39.563,199.339,Finished
+2022,United States Grand Prix,Russell,4,5,5,5,11.0,56,+44.815,6176502,56,1,1:38.788,200.902,Finished
+2022,United States Grand Prix,Norris,6,6,6,6,8.0,56,+53.785,6185472,49,7,1:41.322,195.878,Finished
+2022,United States Grand Prix,Alonso,14,7,7,7,6.0,56,+55.078,6186765,39,8,1:41.538,195.461,Finished
+2022,United States Grand Prix,Pilote Inconnu,10,8,8,8,4.0,56,+1:05.354,6197041,35,16,1:42.546,193.540,Finished
+2022,United States Grand Prix,Magnussen,13,9,9,9,2.0,56,+1:05.834,6197521,36,11,1:42.206,194.184,Finished
+2022,United States Grand Prix,Tsunoda,19,10,10,10,1.0,56,+1:10.919,6202606,49,6,1:41.243,196.031,Finished
+2022,United States Grand Prix,Ocon,0,11,11,11,0.0,56,+1:12.875,6204562,39,13,1:42.394,193.827,Finished
+2022,United States Grand Prix,Zhou,18,12,12,12,0.0,56,+1:16.164,6207851,46,15,1:42.471,193.682,Finished
+2022,United States Grand Prix,Albon,8,13,13,13,0.0,56,+1:20.057,6211744,55,9,1:41.674,195.200,Finished
+2022,United States Grand Prix,Gasly,11,14,14,14,0.0,56,+1:21.763,6213450,55,12,1:42.320,193.967,Finished
+2022,United States Grand Prix,Pilote Inconnu,16,15,15,15,0.0,56,+1:24.490,6216177,51,10,1:41.804,194.951,Finished
+2022,United States Grand Prix,Ricciardo,15,16,16,16,0.0,56,+1:30.487,6222174,55,14,1:42.420,193.778,Finished
+2022,United States Grand Prix,Pilote Inconnu,17,17,17,17,0.0,56,+1:43.588,6235275,54,19,1:43.485,191.784,Finished
+2022,United States Grand Prix,Stroll,5,,R,18,0.0,21,,,3,17,1:43.080,192.537,Collision
+2022,United States Grand Prix,Bottas,7,,R,19,0.0,16,,,4,18,1:43.391,191.958,Spun off
+2022,United States Grand Prix,Sainz,1,,R,20,0.0,1,,,,0,,,Collision damage

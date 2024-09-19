@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Styrian Grand Prix,Verstappen,1,1,1,1,25.0,71,1:22:18.925,4938925,68,3,1:08.017,228.542,Finished
+2021,Styrian Grand Prix,Hamilton,2,2,2,2,19.0,71,+35.743,4974668,71,1,1:07.058,231.811,Finished
+2021,Styrian Grand Prix,Bottas,5,3,3,3,15.0,71,+46.907,4985832,43,5,1:08.619,226.537,Finished
+2021,Styrian Grand Prix,Pérez,4,4,4,4,12.0,71,+47.434,4986359,57,2,1:07.894,228.956,Finished
+2021,Styrian Grand Prix,Norris,3,5,5,5,10.0,70,,,65,7,1:08.903,225.604,+1 Lap
+2021,Styrian Grand Prix,Sainz,12,6,6,6,8.0,70,,,64,4,1:08.609,226.570,+1 Lap
+2021,Styrian Grand Prix,Leclerc,7,7,7,7,6.0,70,,,64,6,1:08.738,226.145,+1 Lap
+2021,Styrian Grand Prix,Stroll,9,8,8,8,4.0,70,,,32,14,1:09.787,222.746,+1 Lap
+2021,Styrian Grand Prix,Alonso,8,9,9,9,2.0,70,,,61,13,1:09.749,222.867,+1 Lap
+2021,Styrian Grand Prix,Tsunoda,11,10,10,10,1.0,70,,,41,11,1:09.650,223.184,+1 Lap
+2021,Styrian Grand Prix,Pilote Inconnu,18,11,11,11,0.0,70,,,57,8,1:09.128,224.869,+1 Lap
+2021,Styrian Grand Prix,Pilote Inconnu,14,12,12,12,0.0,70,,,64,15,1:09.821,222.637,+1 Lap
+2021,Styrian Grand Prix,Ricciardo,13,13,13,13,0.0,70,,,45,9,1:09.305,224.295,+1 Lap
+2021,Styrian Grand Prix,Ocon,17,14,14,14,0.0,70,,,70,10,1:09.576,223.421,+1 Lap
+2021,Styrian Grand Prix,Pilote Inconnu,15,15,15,15,0.0,70,,,39,12,1:09.723,222.950,+1 Lap
+2021,Styrian Grand Prix,Pilote Inconnu,19,16,16,16,0.0,69,,,57,16,1:10.005,222.052,+2 Laps
+2021,Styrian Grand Prix,Pilote Inconnu,16,17,17,17,0.0,68,,,34,17,1:10.104,221.739,+3 Laps
+2021,Styrian Grand Prix,Pilote Inconnu,20,18,18,18,0.0,68,,,39,19,1:10.951,219.092,+3 Laps
+2021,Styrian Grand Prix,Russell,10,,R,19,0.0,36,,,28,18,1:10.499,220.496,Engine
+2021,Styrian Grand Prix,Gasly,6,,R,20,0.0,1,,,,0,,,Collision

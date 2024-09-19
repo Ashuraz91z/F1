@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Emilia Romagna Grand Prix,Verstappen,3,1,1,1,25.0,63,2:02:34.598,7354598,60,2,1:17.524,227.960,Finished
+2021,Emilia Romagna Grand Prix,Hamilton,1,2,2,2,19.0,63,+22.000,7376598,60,1,1:16.702,230.403,Finished
+2021,Emilia Romagna Grand Prix,Norris,7,3,3,3,15.0,63,+23.702,7378300,63,3,1:18.259,225.819,Finished
+2021,Emilia Romagna Grand Prix,Leclerc,4,4,4,4,12.0,63,+25.579,7380177,60,6,1:18.379,225.473,Finished
+2021,Emilia Romagna Grand Prix,Sainz,11,5,5,5,10.0,63,+27.036,7381634,60,7,1:18.490,225.154,Finished
+2021,Emilia Romagna Grand Prix,Ricciardo,6,6,6,6,8.0,63,+51.220,7405818,54,12,1:19.341,222.739,Finished
+2021,Emilia Romagna Grand Prix,Gasly,5,7,7,7,6.0,63,+52.818,7407416,52,9,1:18.994,223.718,Finished
+2021,Emilia Romagna Grand Prix,Stroll,10,8,8,8,4.0,63,+56.909,7411507,59,8,1:18.782,224.320,Finished
+2021,Emilia Romagna Grand Prix,Ocon,9,9,9,9,2.0,63,+65.704,7420302,62,15,1:19.422,222.512,Finished
+2021,Emilia Romagna Grand Prix,Alonso,15,10,10,10,1.0,63,+66.561,7421159,62,14,1:19.417,222.526,Finished
+2021,Emilia Romagna Grand Prix,Pérez,2,11,11,11,0.0,63,+67.151,7421749,62,13,1:19.396,222.585,Finished
+2021,Emilia Romagna Grand Prix,Tsunoda,20,12,12,12,0.0,63,+73.184,7427782,49,4,1:18.334,225.603,Finished
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,16,13,13,13,0.0,63,+94.773,7449371,62,5,1:18.353,225.548,Finished
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,17,14,14,14,0.0,62,,,57,16,1:19.470,222.378,+1 Lap
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,0,15,15,15,0.0,61,,,59,10,1:19.074,223.491,Gearbox
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,18,16,16,16,0.0,61,,,58,11,1:19.193,223.156,+2 Laps
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,19,17,17,17,0.0,61,,,55,17,1:20.402,219.800,+2 Laps
+2021,Emilia Romagna Grand Prix,Bottas,8,,R,18,0.0,30,,,30,19,1:28.485,199.721,Collision
+2021,Emilia Romagna Grand Prix,Russell,12,,R,19,0.0,30,,,28,18,1:26.543,204.203,Collision
+2021,Emilia Romagna Grand Prix,Pilote Inconnu,14,,R,20,0.0,0,,,,0,,,Collision

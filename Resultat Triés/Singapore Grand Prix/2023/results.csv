@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Singapore Grand Prix,Sainz,1,1,1,1,25.0,62,1:46:37.418,6397418,47,7,1:37.666,182.089,Finished
+2023,Singapore Grand Prix,Norris,4,2,2,2,18.0,62,+0.812,6398230,46,8,1:38.046,181.384,Finished
+2023,Singapore Grand Prix,Hamilton,5,3,3,3,16.0,62,+1.269,6398687,47,1,1:35.867,185.507,Finished
+2023,Singapore Grand Prix,Leclerc,3,4,4,4,12.0,62,+21.177,6418595,46,11,1:38.275,180.961,Finished
+2023,Singapore Grand Prix,Verstappen,11,5,5,5,10.0,62,+21.441,6418859,61,4,1:36.575,184.147,Finished
+2023,Singapore Grand Prix,Gasly,12,6,6,6,8.0,62,+38.441,6435859,46,12,1:38.277,180.957,Finished
+2023,Singapore Grand Prix,Piastri,17,7,7,7,6.0,62,+41.479,6438897,46,13,1:38.492,180.562,Finished
+2023,Singapore Grand Prix,Pérez,13,8,8,8,4.0,62,+59.534,6456952,61,5,1:37.108,183.136,Finished
+2023,Singapore Grand Prix,Pilote Inconnu,10,9,9,9,2.0,62,+1:05.918,6463336,47,15,1:39.028,179.585,Finished
+2023,Singapore Grand Prix,Magnussen,6,10,10,10,1.0,62,+1:12.116,6469534,48,10,1:38.107,181.271,Finished
+2023,Singapore Grand Prix,Albon,14,11,11,11,0.0,62,+1:13.417,6470835,46,6,1:37.342,182.696,Finished
+2023,Singapore Grand Prix,Zhou,0,12,12,12,0.0,62,+1:23.649,6481067,46,16,1:39.316,179.064,Finished
+2023,Singapore Grand Prix,Hülkenberg,9,13,13,13,0.0,62,+1:26.201,6483619,50,17,1:39.923,177.977,Finished
+2023,Singapore Grand Prix,Sargeant,18,14,14,14,0.0,62,+1:26.889,6484307,45,14,1:38.531,180.491,Finished
+2023,Singapore Grand Prix,Alonso,7,15,15,15,0.0,62,+1:27.603,6485021,47,3,1:36.456,184.374,Finished
+2023,Singapore Grand Prix,Russell,2,16,16,16,0.0,61,,,46,2,1:36.273,184.724,Accident
+2023,Singapore Grand Prix,Bottas,16,,R,17,0.0,51,,,51,9,1:38.075,181.330,Technical
+2023,Singapore Grand Prix,Ocon,8,,R,18,0.0,42,,,33,18,1:39.930,177.964,Gearbox
+2023,Singapore Grand Prix,Tsunoda,15,,R,19,0.0,0,,,,0,,,Collision
+2023,Singapore Grand Prix,Stroll,0,,W,20,0.0,0,,,,0,,,Withdrew

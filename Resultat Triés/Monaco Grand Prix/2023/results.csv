@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Monaco Grand Prix,Verstappen,1,1,1,1,25.0,78,1:48:51.980,6531980,23,7,1:16.604,156.822,Finished
+2023,Monaco Grand Prix,Alonso,2,2,2,2,18.0,78,+27.921,6559901,43,9,1:16.674,156.678,Finished
+2023,Monaco Grand Prix,Ocon,3,3,3,3,15.0,78,+36.990,6568970,41,6,1:16.528,156.977,Finished
+2023,Monaco Grand Prix,Hamilton,5,4,4,4,13.0,78,+39.062,6571042,33,1,1:15.650,158.799,Finished
+2023,Monaco Grand Prix,Russell,8,5,5,5,10.0,78,+56.284,6588264,48,10,1:16.798,156.425,Finished
+2023,Monaco Grand Prix,Leclerc,6,6,6,6,8.0,78,+1:01.890,6593870,46,2,1:15.773,158.541,Finished
+2023,Monaco Grand Prix,Gasly,7,7,7,7,6.0,78,+1:02.362,6594342,49,3,1:15.831,158.420,Finished
+2023,Monaco Grand Prix,Sainz,4,8,8,8,4.0,78,+1:03.391,6595371,43,5,1:16.449,157.140,Finished
+2023,Monaco Grand Prix,Norris,10,9,9,9,2.0,77,,,46,19,1:17.844,154.324,+1 Lap
+2023,Monaco Grand Prix,Piastri,11,10,10,10,1.0,77,,,47,14,1:17.513,154.983,+1 Lap
+2023,Monaco Grand Prix,Bottas,15,11,11,11,0.0,77,,,19,18,1:17.824,154.363,+1 Lap
+2023,Monaco Grand Prix,Pilote Inconnu,12,12,12,12,0.0,77,,,43,15,1:17.561,154.887,+1 Lap
+2023,Monaco Grand Prix,Zhou,19,13,13,13,0.0,77,,,5,11,1:16.926,156.165,+1 Lap
+2023,Monaco Grand Prix,Albon,13,14,14,14,0.0,77,,,24,8,1:16.672,156.683,+1 Lap
+2023,Monaco Grand Prix,Tsunoda,9,15,15,15,0.0,76,,,36,16,1:17.680,154.649,+2 Laps
+2023,Monaco Grand Prix,Pérez,20,16,16,16,0.0,76,,,5,4,1:16.269,157.510,+2 Laps
+2023,Monaco Grand Prix,Hülkenberg,18,17,17,17,0.0,76,,,6,12,1:16.991,156.033,+2 Laps
+2023,Monaco Grand Prix,Sargeant,16,18,18,18,0.0,76,,,32,13,1:17.302,155.406,+2 Laps
+2023,Monaco Grand Prix,Magnussen,17,,R,19,0.0,70,,,41,20,1:18.351,153.325,Collision damage
+2023,Monaco Grand Prix,Stroll,14,,R,20,0.0,53,,,18,17,1:17.769,154.472,Accident

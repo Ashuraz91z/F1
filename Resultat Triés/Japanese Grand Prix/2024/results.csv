@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2024,Japanese Grand Prix,Verstappen,1,1,1,1,26.0,53,1:54:23.566,6863566,50,1,1:33.706,223.093,Finished
+2024,Japanese Grand Prix,Pérez,2,2,2,2,18.0,53,+12.535,6876101,35,3,1:33.945,222.525,Finished
+2024,Japanese Grand Prix,Sainz,4,3,3,3,15.0,53,+20.866,6884432,46,2,1:33.841,222.772,Finished
+2024,Japanese Grand Prix,Leclerc,8,4,4,4,12.0,53,+26.522,6890088,53,9,1:35.044,219.952,Finished
+2024,Japanese Grand Prix,Norris,3,5,5,5,10.0,53,+29.700,6893266,1,10,1:35.186,219.624,Finished
+2024,Japanese Grand Prix,Alonso,5,6,6,6,8.0,53,+44.272,6907838,53,6,1:34.726,220.691,Finished
+2024,Japanese Grand Prix,Russell,9,7,7,7,6.0,53,+45.951,6909517,39,5,1:34.404,221.444,Finished
+2024,Japanese Grand Prix,Piastri,6,8,8,8,4.0,53,+47.525,6911091,1,7,1:34.802,220.514,Finished
+2024,Japanese Grand Prix,Hamilton,7,9,9,9,2.0,53,+48.626,6912192,41,4,1:33.952,222.509,Finished
+2024,Japanese Grand Prix,Tsunoda,10,10,10,10,1.0,52,,,51,14,1:36.342,216.989,+1 Lap
+2024,Japanese Grand Prix,Hülkenberg,12,11,11,11,0.0,52,,,52,11,1:35.325,219.304,+1 Lap
+2024,Japanese Grand Prix,Stroll,16,12,12,12,0.0,52,,,41,12,1:35.798,218.221,+1 Lap
+2024,Japanese Grand Prix,Magnussen,18,13,13,13,0.0,52,,,24,17,1:36.654,216.289,+1 Lap
+2024,Japanese Grand Prix,Bottas,13,14,14,14,0.0,52,,,25,15,1:36.608,216.392,+1 Lap
+2024,Japanese Grand Prix,Ocon,15,15,15,15,0.0,52,,,52,13,1:36.232,217.237,+1 Lap
+2024,Japanese Grand Prix,Gasly,17,16,16,16,0.0,52,,,48,16,1:36.642,216.315,+1 Lap
+2024,Japanese Grand Prix,Sargeant,19,17,17,17,0.0,52,,,43,8,1:34.900,220.286,+1 Lap
+2024,Japanese Grand Prix,Zhou,20,,R,18,0.0,12,,,9,18,1:37.160,215.162,Gearbox
+2024,Japanese Grand Prix,Ricciardo,11,,R,19,0.0,0,,,,0,,,Accident
+2024,Japanese Grand Prix,Albon,14,,R,20,0.0,0,,,,0,,,Accident

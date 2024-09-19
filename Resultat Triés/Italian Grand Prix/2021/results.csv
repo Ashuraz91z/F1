@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Italian Grand Prix,Ricciardo,2,1,1,1,26.0,53,1:21:54.365,4914365,53,1,1:24.812,245.894,Finished
+2021,Italian Grand Prix,Norris,3,2,2,2,18.0,53,+1.747,4916112,53,3,1:24.971,245.434,Finished
+2021,Italian Grand Prix,Bottas,19,3,3,3,15.0,53,+4.921,4919286,34,2,1:24.827,245.850,Finished
+2021,Italian Grand Prix,Leclerc,5,4,4,4,12.0,53,+7.309,4921674,53,6,1:25.319,244.433,Finished
+2021,Italian Grand Prix,Pérez,8,5,5,5,10.0,53,+8.723,4923088,53,4,1:25.156,244.901,Finished
+2021,Italian Grand Prix,Sainz,6,6,6,6,8.0,53,+10.535,4924900,53,8,1:25.559,243.747,Finished
+2021,Italian Grand Prix,Stroll,9,7,7,7,6.0,53,+15.804,4930169,52,13,1:25.853,242.912,Finished
+2021,Italian Grand Prix,Alonso,10,8,8,8,4.0,53,+17.201,4931566,52,7,1:25.472,243.995,Finished
+2021,Italian Grand Prix,Russell,14,9,9,9,2.0,53,+19.742,4934107,53,11,1:25.835,242.963,Finished
+2021,Italian Grand Prix,Ocon,12,10,10,10,1.0,53,+20.868,4935233,53,9,1:25.566,243.727,Finished
+2021,Italian Grand Prix,Pilote Inconnu,13,11,11,11,0.0,53,+23.743,4938108,50,16,1:25.953,242.630,Finished
+2021,Italian Grand Prix,Pilote Inconnu,11,12,12,12,0.0,53,+24.621,4938986,50,15,1:25.938,242.672,Finished
+2021,Italian Grand Prix,Pilote Inconnu,7,13,13,13,0.0,53,+27.216,4941581,50,10,1:25.718,243.295,Finished
+2021,Italian Grand Prix,Pilote Inconnu,17,14,14,14,0.0,53,+29.769,4944134,53,12,1:25.849,242.924,Finished
+2021,Italian Grand Prix,Pilote Inconnu,18,15,15,15,0.0,53,+51.088,4965453,52,17,1:26.707,240.520,Finished
+2021,Italian Grand Prix,Pilote Inconnu,16,,R,16,0.0,41,,,41,18,1:27.202,239.155,Power Unit
+2021,Italian Grand Prix,Hamilton,4,,R,17,0.0,25,,,3,14,1:25.870,242.864,Collision
+2021,Italian Grand Prix,Verstappen,1,,R,18,0.0,25,,,25,5,1:25.173,244.852,Collision
+2021,Italian Grand Prix,Gasly,0,,R,19,0.0,3,,,2,19,1:29.005,234.310,Suspension
+2021,Italian Grand Prix,Tsunoda,0,,W,20,0.0,0,,,,0,,,Brakes

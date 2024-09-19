@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Belgian Grand Prix,Verstappen,14,1,1,1,26.0,44,1:25:52.894,5152894,32,1,1:49.354,230.575,Finished
+2022,Belgian Grand Prix,Pérez,2,2,2,2,18.0,44,+17.841,5170735,29,3,1:50.764,227.640,Finished
+2022,Belgian Grand Prix,Sainz,1,3,3,3,15.0,44,+26.886,5179780,32,7,1:51.977,225.174,Finished
+2022,Belgian Grand Prix,Russell,5,4,4,4,12.0,44,+29.140,5182034,31,4,1:50.793,227.581,Finished
+2022,Belgian Grand Prix,Alonso,3,5,5,5,10.0,44,+1:13.256,5226150,35,13,1:52.868,223.397,Finished
+2022,Belgian Grand Prix,Leclerc,15,6,6,6,8.0,44,+1:14.936,5227830,44,2,1:49.984,229.255,Finished
+2022,Belgian Grand Prix,Ocon,16,7,7,7,6.0,44,+1:15.640,5228534,36,6,1:51.717,225.698,Finished
+2022,Belgian Grand Prix,Pilote Inconnu,10,8,8,8,4.0,44,+1:18.107,5231001,40,11,1:52.515,224.098,Finished
+2022,Belgian Grand Prix,Gasly,0,9,9,9,2.0,44,+1:32.181,5245075,24,15,1:53.002,223.132,Finished
+2022,Belgian Grand Prix,Albon,6,10,10,10,1.0,44,+1:41.900,5254794,28,16,1:53.055,223.027,Finished
+2022,Belgian Grand Prix,Stroll,9,11,11,11,0.0,44,+1:43.078,5255972,29,14,1:52.880,223.373,Finished
+2022,Belgian Grand Prix,Norris,17,12,12,12,0.0,44,+1:44.739,5257633,31,5,1:51.678,225.777,Finished
+2022,Belgian Grand Prix,Tsunoda,0,13,13,13,0.0,44,+1:45.217,5258111,32,10,1:52.436,224.255,Finished
+2022,Belgian Grand Prix,Zhou,18,14,14,14,0.0,44,+1:46.252,5259146,30,9,1:52.317,224.493,Finished
+2022,Belgian Grand Prix,Ricciardo,7,15,15,15,0.0,44,+1:47.163,5260057,34,17,1:53.080,222.978,Finished
+2022,Belgian Grand Prix,Magnussen,12,16,16,16,0.0,43,,,29,18,1:53.332,222.482,+1 Lap
+2022,Belgian Grand Prix,Pilote Inconnu,19,17,17,17,0.0,43,,,35,12,1:52.646,223.837,+1 Lap
+2022,Belgian Grand Prix,Pilote Inconnu,11,18,18,18,0.0,43,,,38,8,1:52.256,224.615,+1 Lap
+2022,Belgian Grand Prix,Bottas,13,,R,19,0.0,1,,,,0,,,Accident
+2022,Belgian Grand Prix,Hamilton,4,,R,20,0.0,0,,,,0,,,Collision damage

@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Hungarian Grand Prix,Verstappen,2,1,1,1,26.0,70,1:38:08.634,5888634,53,1,1:20.504,195.910,Finished
+2023,Hungarian Grand Prix,Norris,3,2,2,2,18.0,70,+33.731,5922365,50,4,1:22.178,191.919,Finished
+2023,Hungarian Grand Prix,Pérez,9,3,3,3,15.0,70,+37.603,5926237,53,5,1:22.295,191.647,Finished
+2023,Hungarian Grand Prix,Hamilton,1,4,4,4,12.0,70,+39.134,5927768,54,2,1:21.601,193.277,Finished
+2023,Hungarian Grand Prix,Piastri,4,5,5,5,10.0,70,+1:02.572,5951206,45,8,1:22.736,190.625,Finished
+2023,Hungarian Grand Prix,Russell,18,6,6,6,8.0,70,+1:05.825,5954459,48,3,1:22.158,191.966,Finished
+2023,Hungarian Grand Prix,Leclerc,6,7,7,7,6.0,70,+1:10.317,5958951,50,6,1:22.469,191.242,Finished
+2023,Hungarian Grand Prix,Sainz,11,8,8,8,4.0,70,+1:11.073,5959707,54,7,1:22.584,190.976,Finished
+2023,Hungarian Grand Prix,Alonso,8,9,9,9,2.0,70,+1:15.709,5964343,51,9,1:22.745,190.604,Finished
+2023,Hungarian Grand Prix,Stroll,14,10,10,10,1.0,69,,,54,11,1:23.425,189.051,+1 Lap
+2023,Hungarian Grand Prix,Albon,16,11,11,11,0.0,69,,,54,18,1:24.051,187.643,+1 Lap
+2023,Hungarian Grand Prix,Bottas,7,12,12,12,0.0,69,,,42,14,1:23.651,188.540,+1 Lap
+2023,Hungarian Grand Prix,Ricciardo,13,13,13,13,0.0,69,,,67,17,1:23.934,187.904,+1 Lap
+2023,Hungarian Grand Prix,Hülkenberg,10,14,14,14,0.0,69,,,42,13,1:23.573,188.716,+1 Lap
+2023,Hungarian Grand Prix,Tsunoda,17,15,15,15,0.0,69,,,68,10,1:23.269,189.405,+1 Lap
+2023,Hungarian Grand Prix,Zhou,5,16,16,16,0.0,69,,,12,15,1:23.743,188.333,+1 Lap
+2023,Hungarian Grand Prix,Magnussen,19,17,17,17,0.0,69,,,54,16,1:23.864,188.061,+1 Lap
+2023,Hungarian Grand Prix,Sargeant,20,,R,18,0.0,67,,,36,12,1:23.496,188.890,Retired
+2023,Hungarian Grand Prix,Ocon,12,,R,19,0.0,2,,,,0,,,Collision damage
+2023,Hungarian Grand Prix,Gasly,15,,R,20,0.0,1,,,,0,,,Collision damage

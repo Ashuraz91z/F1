@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2024,Miami Grand Prix,Norris,5,1,1,1,25.0,57,1:30:49.876,5449876,55,5,1:30.980,214.148,Finished
+2024,Miami Grand Prix,Verstappen,1,2,2,2,18.0,57,+7.612,5457488,48,8,1:31.261,213.488,Finished
+2024,Miami Grand Prix,Leclerc,2,3,3,3,15.0,57,+9.920,5459796,56,6,1:31.084,213.903,Finished
+2024,Miami Grand Prix,Pérez,4,4,4,4,12.0,57,+14.650,5464526,55,3,1:30.855,214.442,Finished
+2024,Miami Grand Prix,Sainz,3,5,5,5,10.0,57,+16.407,5466283,55,4,1:30.928,214.270,Finished
+2024,Miami Grand Prix,Hamilton,8,6,6,6,8.0,57,+16.585,5466461,54,7,1:31.233,213.554,Finished
+2024,Miami Grand Prix,Tsunoda,10,7,7,7,6.0,57,+26.185,5476061,55,10,1:31.682,212.508,Finished
+2024,Miami Grand Prix,Russell,7,8,8,8,4.0,57,+34.789,5484665,43,13,1:31.921,211.955,Finished
+2024,Miami Grand Prix,Alonso,15,9,9,9,2.0,57,+37.107,5486983,55,11,1:31.727,212.404,Finished
+2024,Miami Grand Prix,Ocon,13,10,10,10,1.0,57,+39.746,5489622,51,16,1:32.037,211.688,Finished
+2024,Miami Grand Prix,Hülkenberg,9,11,11,11,0.0,57,+40.789,5490665,56,14,1:31.941,211.909,Finished
+2024,Miami Grand Prix,Gasly,12,12,12,12,0.0,57,+44.958,5494834,56,17,1:32.055,211.647,Finished
+2024,Miami Grand Prix,Piastri,6,13,13,13,0.0,57,+49.756,5499632,43,1,1:30.634,214.965,Finished
+2024,Miami Grand Prix,Zhou,19,14,14,14,0.0,57,+49.979,5499855,56,15,1:31.991,211.794,Finished
+2024,Miami Grand Prix,Ricciardo,20,15,15,15,0.0,57,+50.956,5500832,57,19,1:32.122,211.493,Finished
+2024,Miami Grand Prix,Bottas,16,16,16,16,0.0,57,+52.356,5502232,55,18,1:32.098,211.548,Finished
+2024,Miami Grand Prix,Stroll,11,17,17,17,0.0,57,+55.173,5505049,57,9,1:31.588,212.726,Finished
+2024,Miami Grand Prix,Albon,14,18,18,18,0.0,57,+1:16.091,5525967,55,2,1:30.849,214.456,Finished
+2024,Miami Grand Prix,Magnussen,18,19,19,19,0.0,57,+1:24.683,5534559,33,12,1:31.774,212.295,Finished
+2024,Miami Grand Prix,Sargeant,17,,R,20,0.0,27,,,15,20,1:33.452,208.483,Collision

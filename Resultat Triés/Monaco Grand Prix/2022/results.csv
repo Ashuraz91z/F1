@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Monaco Grand Prix,Pérez,3,1,1,1,25.0,64,1:56:30.265,6990265,46,4,1:16.028,158.010,Finished
+2022,Monaco Grand Prix,Sainz,2,2,2,2,18.0,64,+1.154,6991419,47,7,1:16.421,157.197,Finished
+2022,Monaco Grand Prix,Verstappen,4,3,3,3,15.0,64,+1.491,6991756,47,5,1:16.052,157.960,Finished
+2022,Monaco Grand Prix,Leclerc,1,4,4,4,12.0,64,+2.922,6993187,46,6,1:16.249,157.552,Finished
+2022,Monaco Grand Prix,Russell,6,5,5,5,10.0,64,+11.968,7002233,42,8,1:16.830,156.360,Finished
+2022,Monaco Grand Prix,Norris,5,6,6,6,9.0,64,+12.231,7002496,55,1,1:14.693,160.834,Finished
+2022,Monaco Grand Prix,Alonso,7,7,7,7,6.0,64,+46.358,7036623,50,3,1:15.882,158.314,Finished
+2022,Monaco Grand Prix,Hamilton,8,8,8,8,4.0,64,+50.388,7040653,51,9,1:17.203,155.605,Finished
+2022,Monaco Grand Prix,Bottas,12,9,9,9,2.0,64,+52.525,7042790,57,14,1:17.600,154.809,Finished
+2022,Monaco Grand Prix,Pilote Inconnu,9,10,10,10,1.0,64,+53.536,7043801,54,12,1:17.558,154.893,Finished
+2022,Monaco Grand Prix,Gasly,17,11,11,11,0.0,64,+54.289,7044554,61,10,1:17.344,155.321,Finished
+2022,Monaco Grand Prix,Ocon,10,12,12,12,0.0,64,+55.644,7045909,50,13,1:17.571,154.867,Finished
+2022,Monaco Grand Prix,Ricciardo,14,13,13,13,0.0,64,+57.635,7047900,59,11,1:17.532,154.945,Finished
+2022,Monaco Grand Prix,Stroll,18,14,14,14,0.0,64,+1:00.802,7051067,56,15,1:17.672,154.665,Finished
+2022,Monaco Grand Prix,Pilote Inconnu,19,15,15,15,0.0,63,,,43,18,1:18.579,152.880,+1 Lap
+2022,Monaco Grand Prix,Zhou,20,16,16,16,0.0,63,,,52,17,1:18.200,153.621,+1 Lap
+2022,Monaco Grand Prix,Tsunoda,11,17,17,17,0.0,63,,,61,2,1:15.334,159.465,+1 Lap
+2022,Monaco Grand Prix,Albon,16,,R,18,0.0,48,,,40,16,1:18.023,153.969,Mechanical
+2022,Monaco Grand Prix,Pilote Inconnu,15,,R,19,0.0,24,,,24,19,1:24.778,141.701,Accident
+2022,Monaco Grand Prix,Magnussen,13,,R,20,0.0,19,,,18,20,1:33.754,128.135,Water pressure

@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Austrian Grand Prix,Leclerc,2,1,1,1,25.0,71,1:24:24.312,5064312,62,2,1:07.583,230.010,Finished
+2022,Austrian Grand Prix,Verstappen,1,2,2,2,19.0,71,+1.532,5065844,62,1,1:07.275,231.063,Finished
+2022,Austrian Grand Prix,Hamilton,8,3,3,3,15.0,71,+41.217,5105529,63,5,1:09.000,225.286,Finished
+2022,Austrian Grand Prix,Russell,4,4,4,4,12.0,71,+58.972,5123284,61,6,1:09.075,225.042,Finished
+2022,Austrian Grand Prix,Ocon,6,5,5,5,10.0,71,+1:08.436,5132748,62,10,1:09.559,223.476,Finished
+2022,Austrian Grand Prix,Pilote Inconnu,9,6,6,6,8.0,70,,,50,11,1:09.625,223.264,+1 Lap
+2022,Austrian Grand Prix,Norris,10,7,7,7,6.0,70,,,62,8,1:09.304,224.298,+1 Lap
+2022,Austrian Grand Prix,Magnussen,7,8,8,8,4.0,70,,,61,14,1:09.938,222.265,+1 Lap
+2022,Austrian Grand Prix,Ricciardo,11,9,9,9,2.0,70,,,61,13,1:09.924,222.309,+1 Lap
+2022,Austrian Grand Prix,Alonso,19,10,10,10,1.0,70,,,62,3,1:08.558,226.739,+1 Lap
+2022,Austrian Grand Prix,Bottas,0,11,11,11,0.0,70,,,61,7,1:09.266,224.421,+1 Lap
+2022,Austrian Grand Prix,Albon,15,12,12,12,0.0,70,,,60,12,1:09.669,223.123,+1 Lap
+2022,Austrian Grand Prix,Stroll,12,13,13,13,0.0,70,,,64,17,1:10.048,221.916,+1 Lap
+2022,Austrian Grand Prix,Zhou,13,14,14,14,0.0,70,,,50,9,1:09.380,224.053,+1 Lap
+2022,Austrian Grand Prix,Gasly,14,15,15,15,0.0,70,,,61,18,1:10.104,221.739,+1 Lap
+2022,Austrian Grand Prix,Tsunoda,16,16,16,16,0.0,70,,,62,16,1:10.023,221.995,+1 Lap
+2022,Austrian Grand Prix,Pilote Inconnu,18,17,17,17,0.0,70,,,62,15,1:10.001,222.065,+1 Lap
+2022,Austrian Grand Prix,Sainz,3,,R,18,0.0,56,,,55,4,1:08.649,226.438,Power Unit
+2022,Austrian Grand Prix,Pilote Inconnu,17,,R,19,0.0,48,,,14,19,1:10.890,219.280,Undertray
+2022,Austrian Grand Prix,Pérez,5,,R,20,0.0,24,,,5,20,1:11.843,216.371,Collision damage

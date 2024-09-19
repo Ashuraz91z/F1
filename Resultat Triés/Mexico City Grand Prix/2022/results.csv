@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Mexico City Grand Prix,Verstappen,1,1,1,1,25.0,71,1:38:36.729,5916729,36,4,1:22.046,188.850,Finished
+2022,Mexico City Grand Prix,Hamilton,3,2,2,2,18.0,71,+15.186,5931915,32,5,1:22.062,188.813,Finished
+2022,Mexico City Grand Prix,Pérez,4,3,3,3,15.0,71,+18.097,5934826,30,2,1:21.775,189.476,Finished
+2022,Mexico City Grand Prix,Russell,2,4,4,4,13.0,71,+49.431,5966160,71,1,1:20.153,193.310,Finished
+2022,Mexico City Grand Prix,Sainz,5,5,5,5,10.0,71,+58.123,5974852,32,6,1:22.199,188.498,Finished
+2022,Mexico City Grand Prix,Leclerc,7,6,6,6,8.0,71,+1:08.774,5985503,48,10,1:22.603,187.576,Finished
+2022,Mexico City Grand Prix,Ricciardo,11,7,7,7,6.0,70,,,48,3,1:22.022,188.905,+1 Lap
+2022,Mexico City Grand Prix,Ocon,10,8,8,8,4.0,70,,,48,14,1:23.279,186.054,+1 Lap
+2022,Mexico City Grand Prix,Norris,8,9,9,9,2.0,70,,,48,17,1:23.402,185.779,+1 Lap
+2022,Mexico City Grand Prix,Bottas,6,10,10,10,1.0,70,,,43,16,1:23.363,185.866,+1 Lap
+2022,Mexico City Grand Prix,Gasly,14,11,11,11,0.0,70,,,42,8,1:22.277,188.319,+1 Lap
+2022,Mexico City Grand Prix,Albon,17,12,12,12,0.0,70,,,48,12,1:22.914,186.873,+1 Lap
+2022,Mexico City Grand Prix,Zhou,12,13,13,13,0.0,70,,,47,7,1:22.260,188.358,+1 Lap
+2022,Mexico City Grand Prix,Pilote Inconnu,16,14,14,14,0.0,70,,,45,13,1:23.086,186.486,+1 Lap
+2022,Mexico City Grand Prix,Stroll,20,15,15,15,0.0,70,,,42,9,1:22.463,187.895,+1 Lap
+2022,Mexico City Grand Prix,Pilote Inconnu,15,16,16,16,0.0,70,,,30,19,1:23.641,185.248,+1 Lap
+2022,Mexico City Grand Prix,Magnussen,19,17,17,17,0.0,70,,,49,15,1:23.300,186.007,+1 Lap
+2022,Mexico City Grand Prix,Pilote Inconnu,18,18,18,18,0.0,69,,,56,20,1:23.709,185.098,+2 Laps
+2022,Mexico City Grand Prix,Alonso,9,19,19,19,0.0,63,,,48,11,1:22.866,186.981,Engine
+2022,Mexico City Grand Prix,Tsunoda,13,,R,20,0.0,50,,,48,18,1:23.403,185.777,Collision damage

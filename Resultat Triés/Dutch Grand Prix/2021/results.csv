@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Dutch Grand Prix,Verstappen,1,1,1,1,25.0,72,1:30:05.395,5405395,60,3,1:13.275,209.244,Finished
+2021,Dutch Grand Prix,Hamilton,2,2,2,2,19.0,72,+20.932,5426327,72,1,1:11.097,215.654,Finished
+2021,Dutch Grand Prix,Bottas,3,3,3,3,15.0,72,+56.460,5461855,69,2,1:12.549,211.338,Finished
+2021,Dutch Grand Prix,Gasly,4,4,4,4,12.0,71,,,57,10,1:14.818,204.929,+1 Lap
+2021,Dutch Grand Prix,Leclerc,5,5,5,5,10.0,71,,,58,9,1:14.780,205.033,+1 Lap
+2021,Dutch Grand Prix,Alonso,9,6,6,6,8.0,71,,,60,7,1:14.323,206.294,+1 Lap
+2021,Dutch Grand Prix,Sainz,6,7,7,7,6.0,71,,,45,13,1:15.260,203.725,+1 Lap
+2021,Dutch Grand Prix,Pérez,0,8,8,8,4.0,71,,,59,4,1:13.461,208.714,+1 Lap
+2021,Dutch Grand Prix,Ocon,8,9,9,9,2.0,71,,,54,8,1:14.675,205.321,+1 Lap
+2021,Dutch Grand Prix,Norris,13,10,10,10,1.0,71,,,48,6,1:14.236,206.535,+1 Lap
+2021,Dutch Grand Prix,Ricciardo,10,11,11,11,0.0,71,,,59,11,1:14.920,204.650,+1 Lap
+2021,Dutch Grand Prix,Stroll,12,12,12,12,0.0,70,,,57,15,1:15.611,202.780,+2 Laps
+2021,Dutch Grand Prix,Pilote Inconnu,15,13,13,13,0.0,70,,,63,5,1:13.958,207.312,+2 Laps
+2021,Dutch Grand Prix,Pilote Inconnu,7,14,14,14,0.0,70,,,66,12,1:15.125,204.091,+2 Laps
+2021,Dutch Grand Prix,Pilote Inconnu,16,15,15,15,0.0,70,,,44,14,1:15.442,203.234,+2 Laps
+2021,Dutch Grand Prix,Pilote Inconnu,0,16,16,16,0.0,70,,,25,18,1:15.790,202.301,+2 Laps
+2021,Dutch Grand Prix,Russell,11,17,17,17,0.0,69,,,57,16,1:15.628,202.734,Gearbox
+2021,Dutch Grand Prix,Pilote Inconnu,17,18,18,18,0.0,69,,,36,19,1:15.927,201.936,+3 Laps
+2021,Dutch Grand Prix,Tsunoda,14,,R,19,0.0,48,,,44,17,1:15.783,202.319,Power Unit
+2021,Dutch Grand Prix,Pilote Inconnu,18,,R,20,0.0,41,,,35,20,1:16.066,201.567,Hydraulics

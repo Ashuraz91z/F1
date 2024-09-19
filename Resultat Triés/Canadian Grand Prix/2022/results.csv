@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Canadian Grand Prix,Verstappen,1,1,1,1,25.0,70,1:36:21.757,5781757,64,2,1:15.839,207.012,Finished
+2022,Canadian Grand Prix,Sainz,3,2,2,2,19.0,70,+0.993,5782750,63,1,1:15.749,207.258,Finished
+2022,Canadian Grand Prix,Hamilton,4,3,3,3,15.0,70,+7.006,5788763,69,4,1:16.167,206.120,Finished
+2022,Canadian Grand Prix,Russell,8,4,4,4,12.0,70,+12.313,5794070,63,5,1:16.418,205.443,Finished
+2022,Canadian Grand Prix,Leclerc,19,5,5,5,10.0,70,+15.168,5796925,62,3,1:15.901,206.843,Finished
+2022,Canadian Grand Prix,Ocon,7,6,6,6,8.0,70,+23.890,5805647,62,9,1:17.110,203.600,Finished
+2022,Canadian Grand Prix,Bottas,11,7,7,7,6.0,70,+25.247,5807004,64,8,1:17.010,203.864,Finished
+2022,Canadian Grand Prix,Zhou,10,8,8,8,4.0,70,+26.952,5808709,60,7,1:16.927,204.084,Finished
+2022,Canadian Grand Prix,Alonso,2,9,9,9,2.0,70,+29.945,5811702,63,6,1:16.578,205.014,Finished
+2022,Canadian Grand Prix,Stroll,17,10,10,10,1.0,70,+38.222,5819979,64,10,1:17.421,202.782,Finished
+2022,Canadian Grand Prix,Ricciardo,9,11,11,11,0.0,70,+43.047,5824804,59,13,1:17.932,201.452,Finished
+2022,Canadian Grand Prix,Pilote Inconnu,16,12,12,12,0.0,70,+44.245,5826002,63,15,1:17.956,201.390,Finished
+2022,Canadian Grand Prix,Albon,12,13,13,13,0.0,70,+44.893,5826650,59,14,1:17.951,201.403,Finished
+2022,Canadian Grand Prix,Gasly,15,14,14,14,0.0,70,+45.183,5826940,60,12,1:17.810,201.768,Finished
+2022,Canadian Grand Prix,Norris,14,15,15,15,0.0,70,+52.145,5833902,63,11,1:17.495,202.588,Finished
+2022,Canadian Grand Prix,Pilote Inconnu,18,16,16,16,0.0,70,+59.978,5841735,61,18,1:18.540,199.893,Finished
+2022,Canadian Grand Prix,Magnussen,5,17,17,17,0.0,70,+1:08.180,5849937,11,16,1:18.046,201.158,Finished
+2022,Canadian Grand Prix,Tsunoda,20,,R,18,0.0,47,,,15,17,1:18.309,200.482,Accident
+2022,Canadian Grand Prix,Pilote Inconnu,6,,R,19,0.0,18,,,13,20,1:18.967,198.812,Engine
+2022,Canadian Grand Prix,Pérez,13,,R,20,0.0,7,,,7,19,1:18.844,199.122,Gearbox

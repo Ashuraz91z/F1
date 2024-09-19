@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Dutch Grand Prix,Verstappen,1,1,1,1,26.0,72,1:36:42.773,5802773,62,1,1:13.652,208.173,Finished
+2022,Dutch Grand Prix,Russell,6,2,2,2,18.0,72,+4.071,5806844,72,2,1:13.671,208.119,Finished
+2022,Dutch Grand Prix,Leclerc,2,3,3,3,15.0,72,+10.929,5813702,62,6,1:14.413,206.044,Finished
+2022,Dutch Grand Prix,Hamilton,4,4,4,4,12.0,72,+13.016,5815789,54,3,1:13.854,207.604,Finished
+2022,Dutch Grand Prix,Pérez,5,5,5,5,10.0,72,+18.168,5820941,63,5,1:14.404,206.069,Finished
+2022,Dutch Grand Prix,Alonso,13,6,6,6,8.0,72,+18.754,5821527,51,4,1:14.144,206.792,Finished
+2022,Dutch Grand Prix,Norris,7,7,7,7,6.0,72,+19.306,5822079,63,8,1:14.706,205.236,Finished
+2022,Dutch Grand Prix,Sainz,3,8,8,8,4.0,72,+20.916,5823689,63,7,1:14.643,205.409,Finished
+2022,Dutch Grand Prix,Ocon,12,9,9,9,2.0,72,+21.117,5823890,64,11,1:15.084,204.203,Finished
+2022,Dutch Grand Prix,Stroll,10,10,10,10,1.0,72,+22.459,5825232,65,10,1:15.043,204.314,Finished
+2022,Dutch Grand Prix,Gasly,11,11,11,11,0.0,72,+27.009,5829782,65,12,1:15.165,203.983,Finished
+2022,Dutch Grand Prix,Albon,15,12,12,12,0.0,72,+30.390,5833163,65,15,1:15.534,202.986,Finished
+2022,Dutch Grand Prix,Pilote Inconnu,8,13,13,13,0.0,72,+32.995,5835768,51,13,1:15.233,203.798,Finished
+2022,Dutch Grand Prix,Pilote Inconnu,19,14,14,14,0.0,72,+36.007,5838780,50,9,1:14.862,204.808,Finished
+2022,Dutch Grand Prix,Magnussen,18,15,15,15,0.0,72,+36.869,5839642,53,14,1:15.369,203.431,Finished
+2022,Dutch Grand Prix,Zhou,14,16,16,16,0.0,72,+37.320,5840093,63,17,1:15.940,201.901,Finished
+2022,Dutch Grand Prix,Ricciardo,17,17,17,17,0.0,72,+37.764,5840537,52,16,1:15.577,202.871,Finished
+2022,Dutch Grand Prix,Pilote Inconnu,20,18,18,18,0.0,71,,,62,18,1:16.066,201.567,+1 Lap
+2022,Dutch Grand Prix,Bottas,16,,R,19,0.0,53,,,51,19,1:16.844,199.526,Engine
+2022,Dutch Grand Prix,Tsunoda,9,,R,20,0.0,43,,,16,20,1:17.138,198.765,Differential

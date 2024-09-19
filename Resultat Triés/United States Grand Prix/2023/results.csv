@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,United States Grand Prix,Verstappen,6,1,1,1,25.0,56,1:35:21.362,5721362,40,9,1:40.028,198.412,Finished
+2023,United States Grand Prix,Norris,2,2,2,2,18.0,56,+10.730,5732092,39,8,1:39.985,198.497,Finished
+2023,United States Grand Prix,Sainz,4,3,3,3,15.0,56,+15.134,5736496,51,10,1:40.034,198.400,Finished
+2023,United States Grand Prix,Pérez,9,4,4,4,12.0,56,+18.460,5739822,40,5,1:39.737,198.991,Finished
+2023,United States Grand Prix,Russell,5,5,5,5,10.0,56,+24.999,5746361,48,3,1:39.393,199.680,Finished
+2023,United States Grand Prix,Gasly,7,6,6,6,8.0,56,+47.996,5769358,47,11,1:40.412,197.653,Finished
+2023,United States Grand Prix,Stroll,0,7,7,7,6.0,56,+48.696,5770058,48,6,1:39.908,198.650,Finished
+2023,United States Grand Prix,Tsunoda,11,8,8,8,5.0,56,+1:14.385,5795747,56,1,1:38.139,202.231,Finished
+2023,United States Grand Prix,Albon,15,9,9,9,2.0,56,+1:26.714,5808076,40,15,1:41.371,195.783,Finished
+2023,United States Grand Prix,Sargeant,16,10,10,10,1.0,56,+1:27.998,5809360,34,14,1:41.238,196.041,Finished
+2023,United States Grand Prix,Hülkenberg,0,11,11,11,0.0,56,+1:29.904,5811266,45,12,1:40.925,196.648,Finished
+2023,United States Grand Prix,Bottas,13,12,12,12,0.0,56,+1:38.601,5819963,54,18,1:41.972,194.629,Finished
+2023,United States Grand Prix,Zhou,12,13,13,13,0.0,55,,,51,17,1:41.879,194.807,+1 Lap
+2023,United States Grand Prix,Magnussen,0,14,14,14,0.0,55,,,41,16,1:41.506,195.523,+1 Lap
+2023,United States Grand Prix,Ricciardo,14,15,15,15,0.0,55,,,49,2,1:39.366,199.734,+1 Lap
+2023,United States Grand Prix,Alonso,0,,R,16,0.0,49,,,47,7,1:39.954,198.559,Undertray
+2023,United States Grand Prix,Piastri,10,,R,17,0.0,10,,,5,19,1:42.705,193.240,Radiator
+2023,United States Grand Prix,Ocon,8,,R,18,0.0,6,,,2,20,1:44.789,189.397,Collision damage
+2023,United States Grand Prix,Hamilton,3,,D,19,0.0,56,,,42,4,1:39.582,199.301,Disqualified
+2023,United States Grand Prix,Leclerc,1,,D,20,0.0,56,,,,0,,,Disqualified

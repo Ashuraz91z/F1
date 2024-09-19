@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Miami Grand Prix,Verstappen,3,1,1,1,26.0,57,1:34:24.258,5664258,54,1,1:31.361,213.255,Finished
+2022,Miami Grand Prix,Leclerc,1,2,2,2,18.0,57,+3.786,5668044,53,2,1:31.488,212.959,Finished
+2022,Miami Grand Prix,Sainz,2,3,3,3,15.0,57,+8.229,5672487,56,3,1:31.790,212.258,Finished
+2022,Miami Grand Prix,Pérez,4,4,4,4,12.0,57,+10.638,5674896,54,4,1:31.819,212.191,Finished
+2022,Miami Grand Prix,Russell,12,5,5,5,10.0,57,+18.582,5682840,56,5,1:32.195,211.325,Finished
+2022,Miami Grand Prix,Hamilton,6,6,6,6,8.0,57,+21.368,5685626,55,7,1:32.941,209.629,Finished
+2022,Miami Grand Prix,Bottas,5,7,7,7,6.0,57,+25.073,5689331,56,10,1:33.184,209.083,Finished
+2022,Miami Grand Prix,Ocon,20,8,8,8,4.0,57,+28.386,5692644,56,9,1:33.163,209.130,Finished
+2022,Miami Grand Prix,Albon,18,9,9,9,2.0,57,+32.365,5696623,57,15,1:33.447,208.494,Finished
+2022,Miami Grand Prix,Stroll,0,10,10,10,1.0,57,+37.026,5701284,52,12,1:33.312,208.796,Finished
+2022,Miami Grand Prix,Alonso,11,11,11,11,0.0,57,+37.128,5701386,53,13,1:33.331,208.753,Finished
+2022,Miami Grand Prix,Tsunoda,9,12,12,12,0.0,57,+40.146,5704404,55,8,1:33.035,209.417,Finished
+2022,Miami Grand Prix,Ricciardo,14,13,13,13,0.0,57,+40.902,5705160,56,11,1:33.265,208.901,Finished
+2022,Miami Grand Prix,Pilote Inconnu,19,14,14,14,0.0,57,+49.936,5714194,53,18,1:34.169,206.896,Finished
+2022,Miami Grand Prix,Pilote Inconnu,15,15,15,15,0.0,57,+1:13.305,5737563,57,6,1:32.528,210.565,Finished
+2022,Miami Grand Prix,Magnussen,16,16,16,16,0.0,56,,,52,17,1:33.511,208.351,Front wing
+2022,Miami Grand Prix,Pilote Inconnu,0,17,17,17,0.0,54,,,50,16,1:33.479,208.423,Collision
+2022,Miami Grand Prix,Gasly,7,,R,18,0.0,45,,,38,19,1:34.487,206.199,Suspension
+2022,Miami Grand Prix,Norris,8,,R,19,0.0,39,,,37,14,1:33.411,208.575,Collision
+2022,Miami Grand Prix,Zhou,17,,R,20,0.0,6,,,4,20,1:35.731,203.520,Water leak

@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Bahrain Grand Prix,Verstappen,1,1,1,1,25.0,57,1:33:56.736,5636736,44,6,1:36.236,202.452,Finished
+2023,Bahrain Grand Prix,Pérez,2,2,2,2,18.0,57,+11.987,5648723,37,7,1:36.344,202.225,Finished
+2023,Bahrain Grand Prix,Alonso,5,3,3,3,15.0,57,+38.637,5675373,36,5,1:36.156,202.620,Finished
+2023,Bahrain Grand Prix,Sainz,4,4,4,4,12.0,57,+48.052,5684788,37,14,1:37.130,200.588,Finished
+2023,Bahrain Grand Prix,Hamilton,7,5,5,5,10.0,57,+50.977,5687713,36,10,1:36.546,201.802,Finished
+2023,Bahrain Grand Prix,Stroll,8,6,6,6,8.0,57,+54.502,5691238,32,9,1:36.546,201.802,Finished
+2023,Bahrain Grand Prix,Russell,6,7,7,7,6.0,57,+55.873,5692609,33,17,1:37.221,200.401,Finished
+2023,Bahrain Grand Prix,Bottas,12,8,8,8,4.0,57,+1:12.647,5709383,31,18,1:37.379,200.075,Finished
+2023,Bahrain Grand Prix,Gasly,20,9,9,9,2.0,57,+1:13.753,5710489,42,2,1:35.068,204.939,Finished
+2023,Bahrain Grand Prix,Albon,15,10,10,10,1.0,57,+1:29.774,5726510,43,15,1:37.144,200.559,Finished
+2023,Bahrain Grand Prix,Tsunoda,14,11,11,11,0.0,57,+1:30.870,5727606,42,12,1:36.637,201.612,Finished
+2023,Bahrain Grand Prix,Sargeant,16,12,12,12,0.0,56,,,42,4,1:36.037,202.871,+1 Lap
+2023,Bahrain Grand Prix,Magnussen,17,13,13,13,0.0,56,,,42,8,1:36.471,201.959,+1 Lap
+2023,Bahrain Grand Prix,Pilote Inconnu,19,14,14,14,0.0,56,,,30,19,1:37.709,199.400,+1 Lap
+2023,Bahrain Grand Prix,Hülkenberg,10,15,15,15,0.0,56,,,42,11,1:36.616,201.656,+1 Lap
+2023,Bahrain Grand Prix,Zhou,13,16,16,16,0.0,56,,,56,1,1:33.996,207.276,+1 Lap
+2023,Bahrain Grand Prix,Norris,11,17,17,17,0.0,55,,,51,3,1:35.822,203.327,+2 Laps
+2023,Bahrain Grand Prix,Ocon,9,,R,18,0.0,41,,,34,13,1:36.797,201.278,Mechanical
+2023,Bahrain Grand Prix,Leclerc,3,,R,19,0.0,39,,,37,16,1:37.170,200.506,Engine
+2023,Bahrain Grand Prix,Piastri,18,,R,20,0.0,13,,,3,20,1:40.691,193.494,Electrical

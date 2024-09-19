@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Italian Grand Prix,Verstappen,2,1,1,1,25.0,51,1:13:41.143,4421143,33,2,1:25.240,244.659,Finished
+2023,Italian Grand Prix,Pérez,5,2,2,2,18.0,51,+6.064,4427207,39,4,1:25.522,243.853,Finished
+2023,Italian Grand Prix,Sainz,1,3,3,3,15.0,51,+11.193,4432336,30,3,1:25.501,243.912,Finished
+2023,Italian Grand Prix,Leclerc,3,4,4,4,12.0,51,+11.377,4432520,38,5,1:25.580,243.687,Finished
+2023,Italian Grand Prix,Russell,4,5,5,5,10.0,51,+23.028,4444171,38,9,1:25.847,242.929,Finished
+2023,Italian Grand Prix,Hamilton,8,6,6,6,8.0,51,+42.679,4463822,29,6,1:25.582,243.682,Finished
+2023,Italian Grand Prix,Albon,6,7,7,7,6.0,51,+45.106,4466249,33,16,1:26.389,241.405,Finished
+2023,Italian Grand Prix,Norris,9,8,8,8,4.0,51,+45.449,4466592,24,14,1:26.144,242.092,Finished
+2023,Italian Grand Prix,Alonso,10,9,9,9,2.0,51,+46.294,4467437,43,13,1:26.105,242.201,Finished
+2023,Italian Grand Prix,Bottas,14,10,10,10,1.0,51,+1:04.056,4485199,27,12,1:25.988,242.531,Finished
+2023,Italian Grand Prix,Pilote Inconnu,12,11,11,11,0.0,51,+1:10.638,4491781,44,8,1:25.842,242.944,Finished
+2023,Italian Grand Prix,Piastri,7,12,12,12,0.0,51,+1:13.074,4494217,43,1,1:25.072,245.142,Finished
+2023,Italian Grand Prix,Sargeant,15,13,13,13,0.0,51,+1:18.557,4499700,16,18,1:26.840,240.152,Finished
+2023,Italian Grand Prix,Zhou,16,14,14,14,0.0,51,+1:20.164,4501307,35,11,1:25.983,242.545,Finished
+2023,Italian Grand Prix,Gasly,17,15,15,15,0.0,51,+1:22.510,4503653,44,7,1:25.758,243.181,Finished
+2023,Italian Grand Prix,Stroll,20,16,16,16,0.0,51,+1:27.266,4508409,31,17,1:26.617,240.770,Finished
+2023,Italian Grand Prix,Hülkenberg,13,17,17,17,0.0,50,,,50,10,1:25.894,242.796,+1 Lap
+2023,Italian Grand Prix,Magnussen,19,18,18,18,0.0,50,,,42,15,1:26.278,241.716,+1 Lap
+2023,Italian Grand Prix,Ocon,18,,R,19,0.0,39,,,33,19,1:26.963,239.812,Steering
+2023,Italian Grand Prix,Tsunoda,11,,R,20,0.0,0,,,,0,,,Engine

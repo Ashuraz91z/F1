@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Qatar Grand Prix,Verstappen,1,1,1,1,26.0,57,1:27:39.168,5259168,56,1,1:24.319,231.364,Finished
+2023,Qatar Grand Prix,Piastri,6,2,2,2,18.0,57,+4.833,5264001,48,3,1:24.921,229.724,Finished
+2023,Qatar Grand Prix,Norris,10,3,3,3,15.0,57,+5.969,5265137,47,2,1:24.842,229.938,Finished
+2023,Qatar Grand Prix,Russell,2,4,4,4,12.0,57,+34.119,5293287,35,5,1:25.770,227.450,Finished
+2023,Qatar Grand Prix,Leclerc,5,5,5,5,10.0,57,+38.976,5298144,57,4,1:24.992,229.532,Finished
+2023,Qatar Grand Prix,Alonso,4,6,6,6,8.0,57,+49.032,5308200,57,6,1:26.045,226.723,Finished
+2023,Qatar Grand Prix,Ocon,8,7,7,7,6.0,57,+1:02.390,5321558,42,11,1:26.450,225.661,Finished
+2023,Qatar Grand Prix,Bottas,9,8,8,8,4.0,57,+1:06.563,5325731,54,13,1:26.652,225.135,Finished
+2023,Qatar Grand Prix,Zhou,19,9,9,9,2.0,57,+1:16.127,5335295,54,9,1:26.323,225.993,Finished
+2023,Qatar Grand Prix,Pérez,0,10,10,10,1.0,57,+1:20.181,5339349,50,7,1:26.220,226.263,Finished
+2023,Qatar Grand Prix,Stroll,16,11,11,11,0.0,57,+1:21.652,5340820,55,10,1:26.352,225.917,Finished
+2023,Qatar Grand Prix,Gasly,7,12,12,12,0.0,57,+1:22.300,5341468,49,8,1:26.310,226.027,Finished
+2023,Qatar Grand Prix,Albon,13,13,13,13,0.0,57,+1:31.014,5350182,57,14,1:26.666,225.098,Finished
+2023,Qatar Grand Prix,Magnussen,18,14,14,14,0.0,56,,,46,15,1:27.067,224.061,+1 Lap
+2023,Qatar Grand Prix,Tsunoda,11,15,15,15,0.0,56,,,55,17,1:27.174,223.786,+1 Lap
+2023,Qatar Grand Prix,Hülkenberg,14,16,16,16,0.0,56,,,45,12,1:26.489,225.559,+1 Lap
+2023,Qatar Grand Prix,Pilote Inconnu,17,17,17,17,0.0,56,,,54,16,1:27.113,223.943,+1 Lap
+2023,Qatar Grand Prix,Sargeant,15,,R,18,0.0,40,,,31,18,1:27.983,221.729,Illness
+2023,Qatar Grand Prix,Hamilton,3,,R,19,0.0,0,,,,0,,,Collision
+2023,Qatar Grand Prix,Sainz,12,,W,20,0.0,0,,,,0,,,Fuel leak

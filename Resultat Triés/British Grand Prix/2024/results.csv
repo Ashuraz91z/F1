@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2024,British Grand Prix,Hamilton,2,1,1,1,25.0,52,1:22:27.059,4947059,45,5,1:29.438,237.120,Finished
+2024,British Grand Prix,Verstappen,4,2,2,2,18.0,52,+1.465,4948524,48,3,1:28.952,238.416,Finished
+2024,British Grand Prix,Norris,3,3,3,3,15.0,52,+7.547,4954606,43,4,1:29.262,237.588,Finished
+2024,British Grand Prix,Piastri,5,4,4,4,12.0,52,+12.429,4959488,51,2,1:28.748,238.964,Finished
+2024,British Grand Prix,Sainz,7,5,5,5,11.0,52,+47.318,4994377,52,1,1:28.293,240.195,Finished
+2024,British Grand Prix,Hülkenberg,6,6,6,6,8.0,52,+55.722,5002781,43,10,1:29.836,236.070,Finished
+2024,British Grand Prix,Stroll,8,7,7,7,6.0,52,+56.569,5003628,46,11,1:29.897,235.909,Finished
+2024,British Grand Prix,Alonso,10,8,8,8,4.0,52,+1:03.577,5010636,47,7,1:29.710,236.401,Finished
+2024,British Grand Prix,Albon,9,9,9,9,2.0,52,+1:08.387,5015446,52,8,1:29.718,236.380,Finished
+2024,British Grand Prix,Tsunoda,13,10,10,10,1.0,52,+1:19.303,5026362,43,14,1:30.229,235.041,Finished
+2024,British Grand Prix,Sargeant,12,11,11,11,0.0,52,+1:28.960,5036019,42,12,1:29.972,235.713,Finished
+2024,British Grand Prix,Magnussen,17,12,12,12,0.0,52,+1:30.153,5037212,42,13,1:30.093,235.396,Finished
+2024,British Grand Prix,Ricciardo,15,13,13,13,0.0,51,,,47,15,1:30.735,233.731,+1 Lap
+2024,British Grand Prix,Leclerc,11,14,14,14,0.0,51,,,43,9,1:29.748,236.301,+1 Lap
+2024,British Grand Prix,Bottas,16,15,15,15,0.0,51,,,44,18,1:31.277,232.343,+1 Lap
+2024,British Grand Prix,Ocon,18,16,16,16,0.0,50,,,46,16,1:30.875,233.371,+2 Laps
+2024,British Grand Prix,Pérez,0,17,17,17,0.0,50,,,50,6,1:29.707,236.409,+2 Laps
+2024,British Grand Prix,Zhou,14,18,18,18,0.0,50,,,43,17,1:31.014,233.014,+2 Laps
+2024,British Grand Prix,Russell,1,,R,19,0.0,33,,,3,19,1:31.298,232.289,Water pressure
+2024,British Grand Prix,Gasly,19,,W,20,0.0,0,,,,0,,,Gearbox

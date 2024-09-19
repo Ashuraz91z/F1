@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Japanese Grand Prix,Verstappen,1,1,1,1,26.0,53,1:30:58.421,5458421,39,1,1:34.183,221.963,Finished
+2023,Japanese Grand Prix,Norris,3,2,2,2,18.0,53,+19.387,5477808,40,2,1:35.247,219.484,Finished
+2023,Japanese Grand Prix,Piastri,2,3,3,3,15.0,53,+36.494,5494915,38,5,1:36.328,217.021,Finished
+2023,Japanese Grand Prix,Leclerc,4,4,4,4,12.0,53,+43.998,5502419,40,6,1:36.362,216.944,Finished
+2023,Japanese Grand Prix,Hamilton,7,5,5,5,10.0,53,+49.376,5507797,36,3,1:35.611,218.648,Finished
+2023,Japanese Grand Prix,Sainz,6,6,6,6,8.0,53,+50.221,5508642,40,4,1:36.187,217.339,Finished
+2023,Japanese Grand Prix,Russell,8,7,7,7,6.0,53,+57.659,5516080,27,11,1:37.653,214.076,Finished
+2023,Japanese Grand Prix,Alonso,10,8,8,8,4.0,53,+1:14.725,5533146,28,8,1:37.203,215.067,Finished
+2023,Japanese Grand Prix,Ocon,14,9,9,9,2.0,53,+1:19.678,5538099,34,10,1:37.398,214.636,Finished
+2023,Japanese Grand Prix,Gasly,12,10,10,10,1.0,53,+1:23.155,5541576,36,7,1:36.371,216.924,Finished
+2023,Japanese Grand Prix,Pilote Inconnu,11,11,11,11,0.0,52,,,50,15,1:38.267,212.738,+1 Lap
+2023,Japanese Grand Prix,Tsunoda,9,12,12,12,0.0,52,,,36,12,1:37.768,213.824,+1 Lap
+2023,Japanese Grand Prix,Zhou,19,13,13,13,0.0,52,,,45,13,1:37.791,213.774,+1 Lap
+2023,Japanese Grand Prix,Hülkenberg,18,14,14,14,0.0,52,,,44,9,1:37.250,214.963,+1 Lap
+2023,Japanese Grand Prix,Magnussen,15,15,15,15,0.0,52,,,41,14,1:37.842,213.662,+1 Lap
+2023,Japanese Grand Prix,Albon,13,,R,16,0.0,26,,,15,18,1:39.185,210.769,Collision damage
+2023,Japanese Grand Prix,Sargeant,0,,R,17,0.0,22,,,7,16,1:38.848,211.488,Collision damage
+2023,Japanese Grand Prix,Stroll,17,,R,18,0.0,20,,,16,17,1:39.050,211.057,Rear wing
+2023,Japanese Grand Prix,Pérez,5,,R,19,0.0,15,,,8,19,1:39.704,209.672,Collision damage
+2023,Japanese Grand Prix,Bottas,16,,R,20,0.0,7,,,5,20,2:02.755,170.300,Collision damage

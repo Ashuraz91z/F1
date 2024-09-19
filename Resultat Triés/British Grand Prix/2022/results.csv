@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,British Grand Prix,Sainz,1,1,1,1,25.0,52,2:17:50.311,8270311,44,2,1:30.813,233.530,Finished
+2022,British Grand Prix,Pérez,4,2,2,2,18.0,52,+3.779,8274090,47,3,1:30.937,233.212,Finished
+2022,British Grand Prix,Hamilton,5,3,3,3,16.0,52,+6.225,8276536,52,1,1:30.510,234.312,Finished
+2022,British Grand Prix,Leclerc,3,4,4,4,12.0,52,+8.546,8278857,52,4,1:31.282,232.330,Finished
+2022,British Grand Prix,Alonso,7,5,5,5,10.0,52,+9.571,8279882,47,5,1:31.609,231.501,Finished
+2022,British Grand Prix,Norris,6,6,6,6,8.0,52,+11.943,8282254,47,6,1:31.645,231.410,Finished
+2022,British Grand Prix,Verstappen,2,7,7,7,6.0,52,+18.777,8289088,44,8,1:32.354,229.633,Finished
+2022,British Grand Prix,Pilote Inconnu,19,8,8,8,4.0,52,+18.995,8289306,48,7,1:32.109,230.244,Finished
+2022,British Grand Prix,Pilote Inconnu,18,9,9,9,2.0,52,+22.356,8292667,52,10,1:32.471,229.343,Finished
+2022,British Grand Prix,Magnussen,17,10,10,10,1.0,52,+24.590,8294901,52,12,1:32.661,228.872,Finished
+2022,British Grand Prix,Stroll,20,11,11,11,0.0,52,+26.147,8296458,52,9,1:32.379,229.571,Finished
+2022,British Grand Prix,Pilote Inconnu,10,12,12,12,0.0,52,+32.511,8302822,48,13,1:33.286,227.339,Finished
+2022,British Grand Prix,Ricciardo,14,13,13,13,0.0,52,+32.817,8303128,34,11,1:32.644,228.914,Finished
+2022,British Grand Prix,Tsunoda,13,14,14,14,0.0,52,+40.910,8311221,51,15,1:33.832,226.016,Finished
+2022,British Grand Prix,Ocon,15,,R,15,0.0,37,,,37,14,1:33.537,226.729,Fuel pump
+2022,British Grand Prix,Gasly,11,,R,16,0.0,26,,,18,16,1:34.614,224.148,Collision damage
+2022,British Grand Prix,Bottas,12,,R,17,0.0,20,,,19,17,1:35.103,222.996,Gearbox
+2022,British Grand Prix,Russell,8,,R,18,0.0,0,,,,0,,,Collision
+2022,British Grand Prix,Zhou,9,,R,19,0.0,0,,,,0,,,Collision
+2022,British Grand Prix,Albon,16,,R,20,0.0,0,,,,0,,,Collision

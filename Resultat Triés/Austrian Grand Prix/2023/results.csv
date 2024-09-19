@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Austrian Grand Prix,Verstappen,1,1,1,1,26.0,71,1:25:33.607,5133607,71,1,1:07.012,231.970,Finished
+2023,Austrian Grand Prix,Leclerc,2,2,2,2,18.0,71,+5.155,5138762,51,5,1:08.820,225.876,Finished
+2023,Austrian Grand Prix,Pérez,15,3,3,3,15.0,71,+17.188,5150795,52,2,1:08.111,228.227,Finished
+2023,Austrian Grand Prix,Norris,4,4,4,4,12.0,71,+26.327,5159934,48,4,1:08.739,226.142,Finished
+2023,Austrian Grand Prix,Alonso,7,5,5,5,10.0,71,+30.317,5163924,54,8,1:09.108,224.934,Finished
+2023,Austrian Grand Prix,Sainz,3,6,6,6,8.0,71,+31.377,5164984,50,6,1:08.880,225.679,Finished
+2023,Austrian Grand Prix,Russell,11,7,7,7,6.0,71,+48.403,5182010,49,10,1:09.283,224.366,Finished
+2023,Austrian Grand Prix,Hamilton,5,8,8,8,4.0,71,+49.196,5182803,48,9,1:09.160,224.765,Finished
+2023,Austrian Grand Prix,Stroll,6,9,9,9,2.0,71,+59.043,5192650,57,3,1:08.463,227.054,Finished
+2023,Austrian Grand Prix,Gasly,9,10,10,10,1.0,71,+1:07.667,5201274,48,7,1:09.046,225.136,Finished
+2023,Austrian Grand Prix,Albon,10,11,11,11,0.0,71,+1:19.767,5213374,53,11,1:09.560,223.473,Finished
+2023,Austrian Grand Prix,Zhou,17,12,12,12,0.0,70,,,46,14,1:09.786,222.749,+1 Lap
+2023,Austrian Grand Prix,Sargeant,18,13,13,13,0.0,70,,,45,12,1:09.611,223.309,+1 Lap
+2023,Austrian Grand Prix,Ocon,12,14,14,14,0.0,70,,,50,15,1:09.797,222.714,+1 Lap
+2023,Austrian Grand Prix,Bottas,14,15,15,15,0.0,70,,,49,18,1:09.940,222.259,+1 Lap
+2023,Austrian Grand Prix,Piastri,13,16,16,16,0.0,70,,,46,17,1:09.862,222.507,+1 Lap
+2023,Austrian Grand Prix,Pilote Inconnu,0,17,17,17,0.0,70,,,46,16,1:09.852,222.539,+1 Lap
+2023,Austrian Grand Prix,Magnussen,0,18,18,18,0.0,70,,,37,19,1:10.176,221.511,+1 Lap
+2023,Austrian Grand Prix,Tsunoda,16,19,19,19,0.0,70,,,45,13,1:09.620,223.280,+1 Lap
+2023,Austrian Grand Prix,Hülkenberg,8,,R,20,0.0,12,,,7,20,1:11.066,218.737,Power loss

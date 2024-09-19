@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,United States Grand Prix,Verstappen,1,1,1,1,25.0,56,1:34:36.552,5676552,52,2,1:39.096,200.278,Finished
+2021,United States Grand Prix,Hamilton,2,2,2,2,19.0,56,+1.333,5677885,41,1,1:38.485,201.521,Finished
+2021,United States Grand Prix,Pérez,3,3,3,3,15.0,56,+42.223,5718775,32,4,1:39.566,199.333,Finished
+2021,United States Grand Prix,Leclerc,4,4,4,4,12.0,56,+52.246,5728798,41,3,1:39.303,199.861,Finished
+2021,United States Grand Prix,Ricciardo,6,5,5,5,10.0,56,+1:16.854,5753406,43,8,1:40.345,197.785,Finished
+2021,United States Grand Prix,Bottas,9,6,6,6,8.0,56,+1:20.128,5756680,41,6,1:40.147,198.176,Finished
+2021,United States Grand Prix,Sainz,5,7,7,7,6.0,56,+1:23.545,5760097,40,9,1:40.377,197.722,Finished
+2021,United States Grand Prix,Norris,7,8,8,8,4.0,56,+1:24.395,5760947,41,7,1:40.228,198.016,Finished
+2021,United States Grand Prix,Tsunoda,10,9,9,9,2.0,55,,,47,13,1:41.151,196.209,+1 Lap
+2021,United States Grand Prix,Pilote Inconnu,18,10,10,10,1.0,55,,,40,10,1:40.481,197.517,+1 Lap
+2021,United States Grand Prix,Pilote Inconnu,12,11,11,11,0.0,55,,,44,12,1:41.145,196.221,+1 Lap
+2021,United States Grand Prix,Stroll,13,12,12,12,0.0,55,,,36,14,1:41.189,196.135,+1 Lap
+2021,United States Grand Prix,Pilote Inconnu,15,13,13,13,0.0,55,,,43,15,1:41.340,195.843,+1 Lap
+2021,United States Grand Prix,Russell,20,14,14,14,0.0,55,,,36,11,1:41.120,196.269,+1 Lap
+2021,United States Grand Prix,Pilote Inconnu,14,15,15,15,0.0,55,,,46,17,1:41.818,194.924,+1 Lap
+2021,United States Grand Prix,Pilote Inconnu,16,16,16,16,0.0,54,,,36,16,1:41.395,195.737,+2 Laps
+2021,United States Grand Prix,Pilote Inconnu,17,17,17,17,0.0,54,,,42,20,1:42.886,192.900,+2 Laps
+2021,United States Grand Prix,Alonso,19,,R,18,0.0,49,,,46,5,1:40.067,198.335,Rear wing
+2021,United States Grand Prix,Ocon,11,,R,19,0.0,40,,,28,19,1:42.194,194.207,Mechanical
+2021,United States Grand Prix,Gasly,8,,R,20,0.0,14,,,12,18,1:42.015,194.547,Suspension

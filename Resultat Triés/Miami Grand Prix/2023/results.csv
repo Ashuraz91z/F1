@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Miami Grand Prix,Verstappen,9,1,1,1,26.0,57,1:27:38.241,5258241,56,1,1:29.708,217.184,Finished
+2023,Miami Grand Prix,Pérez,1,2,2,2,18.0,57,+5.384,5263625,57,3,1:30.560,215.141,Finished
+2023,Miami Grand Prix,Alonso,2,3,3,3,15.0,57,+26.305,5284546,57,2,1:30.519,215.238,Finished
+2023,Miami Grand Prix,Russell,6,4,4,4,12.0,57,+33.229,5291470,57,7,1:31.015,214.065,Finished
+2023,Miami Grand Prix,Sainz,3,5,5,5,10.0,57,+42.511,5300752,55,10,1:31.362,213.252,Finished
+2023,Miami Grand Prix,Hamilton,13,6,6,6,8.0,57,+51.249,5309490,57,4,1:30.669,214.882,Finished
+2023,Miami Grand Prix,Leclerc,7,7,7,7,6.0,57,+52.988,5311229,57,11,1:31.434,213.084,Finished
+2023,Miami Grand Prix,Gasly,5,8,8,8,4.0,57,+55.670,5313911,55,17,1:31.971,211.840,Finished
+2023,Miami Grand Prix,Ocon,8,9,9,9,2.0,57,+58.123,5316364,56,9,1:31.143,213.765,Finished
+2023,Miami Grand Prix,Magnussen,4,10,10,10,1.0,57,+1:02.945,5321186,53,13,1:31.691,212.487,Finished
+2023,Miami Grand Prix,Tsunoda,17,11,11,11,0.0,57,+1:04.309,5322550,56,8,1:31.038,214.011,Finished
+2023,Miami Grand Prix,Stroll,18,12,12,12,0.0,57,+1:04.754,5322995,44,5,1:30.862,214.426,Finished
+2023,Miami Grand Prix,Bottas,10,13,13,13,0.0,57,+1:11.637,5329878,56,15,1:31.838,212.147,Finished
+2023,Miami Grand Prix,Albon,11,14,14,14,0.0,57,+1:12.861,5331102,55,16,1:31.852,212.115,Finished
+2023,Miami Grand Prix,Hülkenberg,12,15,15,15,0.0,57,+1:14.950,5333191,36,6,1:30.901,214.334,Finished
+2023,Miami Grand Prix,Zhou,14,16,16,16,0.0,57,+1:18.440,5336681,56,14,1:31.736,212.383,Finished
+2023,Miami Grand Prix,Norris,16,17,17,17,0.0,57,+1:27.717,5345958,47,20,1:32.401,210.854,Finished
+2023,Miami Grand Prix,Pilote Inconnu,15,18,18,18,0.0,57,+1:28.949,5347190,57,12,1:31.562,212.786,Finished
+2023,Miami Grand Prix,Piastri,19,19,19,19,0.0,56,,,56,18,1:32.006,211.760,+1 Lap
+2023,Miami Grand Prix,Sargeant,20,20,20,20,0.0,56,,,50,19,1:32.384,210.893,+1 Lap

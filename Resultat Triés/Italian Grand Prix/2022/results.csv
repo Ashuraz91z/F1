@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Italian Grand Prix,Verstappen,7,1,1,1,25.0,53,1:20:27.511,4827511,38,6,1:24.745,246.088,Finished
+2022,Italian Grand Prix,Leclerc,1,2,2,2,18.0,53,+2.446,4829957,38,2,1:24.336,247.282,Finished
+2022,Italian Grand Prix,Russell,2,3,3,3,15.0,53,+3.405,4830916,40,7,1:25.288,244.522,Finished
+2022,Italian Grand Prix,Sainz,18,4,4,4,12.0,53,+5.061,4832572,41,4,1:24.446,246.960,Finished
+2022,Italian Grand Prix,Hamilton,19,5,5,5,10.0,53,+5.380,4832891,43,3,1:24.434,246.995,Finished
+2022,Italian Grand Prix,Pérez,13,6,6,6,9.0,53,+6.091,4833602,46,1,1:24.030,248.182,Finished
+2022,Italian Grand Prix,Norris,3,7,7,7,6.0,53,+6.207,4833718,43,5,1:24.718,246.167,Finished
+2022,Italian Grand Prix,Gasly,5,8,8,8,4.0,53,+6.396,4833907,30,14,1:26.718,240.489,Finished
+2022,Italian Grand Prix,Pilote Inconnu,8,9,9,9,2.0,53,+7.122,4834633,41,13,1:26.624,240.750,Finished
+2022,Italian Grand Prix,Zhou,9,10,10,10,1.0,53,+7.910,4835421,41,10,1:26.361,241.484,Finished
+2022,Italian Grand Prix,Ocon,14,11,11,11,0.0,53,+8.323,4835834,37,11,1:26.593,240.837,Finished
+2022,Italian Grand Prix,Pilote Inconnu,17,12,12,12,0.0,53,+8.549,4836060,43,8,1:25.298,244.493,Finished
+2022,Italian Grand Prix,Bottas,15,13,13,13,0.0,52,,,45,9,1:25.706,243.329,+1 Lap
+2022,Italian Grand Prix,Tsunoda,20,14,14,14,0.0,52,,,43,17,1:26.857,240.105,+1 Lap
+2022,Italian Grand Prix,Pilote Inconnu,10,15,15,15,0.0,52,,,17,15,1:26.798,240.268,+1 Lap
+2022,Italian Grand Prix,Magnussen,16,16,16,16,0.0,52,,,37,16,1:26.798,240.268,+1 Lap
+2022,Italian Grand Prix,Ricciardo,4,,R,17,0.0,45,,,39,12,1:26.603,240.809,Oil leak
+2022,Italian Grand Prix,Stroll,12,,R,18,0.0,39,,,34,19,1:27.467,238.430,Engine
+2022,Italian Grand Prix,Alonso,6,,R,19,0.0,31,,,7,18,1:27.203,239.152,Water pressure
+2022,Italian Grand Prix,Pilote Inconnu,11,,R,20,0.0,10,,,4,20,1:27.501,238.337,Engine

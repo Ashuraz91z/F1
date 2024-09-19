@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Dutch Grand Prix,Verstappen,1,1,1,1,25.0,72,2:24:04.411,8644411,58,2,1:13.889,207.505,Finished
+2023,Dutch Grand Prix,Alonso,5,2,2,2,19.0,72,+3.744,8648155,56,1,1:13.837,207.651,Finished
+2023,Dutch Grand Prix,Gasly,12,3,3,3,15.0,72,+7.058,8651469,55,7,1:14.441,205.967,Finished
+2023,Dutch Grand Prix,Pérez,7,4,4,4,12.0,72,+10.068,8655093,59,4,1:14.231,206.549,Finished
+2023,Dutch Grand Prix,Sainz,6,5,5,5,10.0,72,+12.541,8656952,54,13,1:14.934,204.612,Finished
+2023,Dutch Grand Prix,Hamilton,13,6,6,6,8.0,72,+13.209,8657620,58,3,1:13.904,207.463,Finished
+2023,Dutch Grand Prix,Norris,2,7,7,7,6.0,72,+13.232,8657643,50,6,1:14.390,206.108,Finished
+2023,Dutch Grand Prix,Albon,4,8,8,8,4.0,72,+15.155,8659566,55,8,1:14.468,205.892,Finished
+2023,Dutch Grand Prix,Piastri,8,9,9,9,2.0,72,+16.580,8660991,54,5,1:14.299,206.360,Finished
+2023,Dutch Grand Prix,Ocon,16,10,10,10,1.0,72,+18.346,8662757,51,10,1:14.570,205.610,Finished
+2023,Dutch Grand Prix,Stroll,11,11,11,11,0.0,72,+20.087,8664498,37,15,1:15.171,203.966,Finished
+2023,Dutch Grand Prix,Hülkenberg,14,12,12,12,0.0,72,+20.840,8665251,53,9,1:14.472,205.881,Finished
+2023,Dutch Grand Prix,Pilote Inconnu,19,13,13,13,0.0,72,+26.147,8670558,49,12,1:14.820,204.923,Finished
+2023,Dutch Grand Prix,Bottas,18,14,14,14,0.0,72,+27.388,8671799,49,11,1:14.698,205.258,Finished
+2023,Dutch Grand Prix,Tsunoda,17,15,15,15,0.0,72,+29.893,8682344,35,18,1:16.253,201.072,Finished
+2023,Dutch Grand Prix,Magnussen,0,16,16,16,0.0,72,+31.410,8679515,37,17,1:15.489,203.107,Finished
+2023,Dutch Grand Prix,Russell,3,17,17,17,0.0,72,+55.754,8700165,54,14,1:15.124,204.094,Finished
+2023,Dutch Grand Prix,Zhou,15,,R,18,0.0,62,,,39,16,1:15.417,203.301,Accident
+2023,Dutch Grand Prix,Leclerc,9,,R,19,0.0,41,,,33,19,1:17.277,198.408,Undertray
+2023,Dutch Grand Prix,Sargeant,10,,R,20,0.0,14,,,13,20,1:17.399,198.095,Accident

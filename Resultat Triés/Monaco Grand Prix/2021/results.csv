@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Monaco Grand Prix,Sainz,4,2,2,2,18.0,78,+8.968,5945788,35,5,1:14.621,160.989,Finished
+2021,Monaco Grand Prix,Verstappen,2,1,1,1,25.0,78,1:38:56.820,5936820,58,6,1:14.649,160.929,Finished
+2021,Monaco Grand Prix,Norris,5,3,3,3,15.0,78,+19.427,5956247,76,7,1:14.670,160.883,Finished
+2021,Monaco Grand Prix,Pérez,9,4,4,4,12.0,78,+20.490,5957310,32,3,1:14.552,161.138,Finished
+2021,Monaco Grand Prix,Pilote Inconnu,8,5,5,5,10.0,78,+52.591,5989411,33,11,1:15.316,159.503,Finished
+2021,Monaco Grand Prix,Gasly,6,6,6,6,8.0,78,+53.896,5990716,71,14,1:15.412,159.300,Finished
+2021,Monaco Grand Prix,Hamilton,7,7,7,7,7.0,78,+1:08.231,6005051,69,1,1:12.909,164.769,Finished
+2021,Monaco Grand Prix,Stroll,13,8,8,8,4.0,77,,,74,8,1:14.674,160.875,+1 Lap
+2021,Monaco Grand Prix,Ocon,11,9,9,9,2.0,77,,,41,12,1:15.316,159.503,+1 Lap
+2021,Monaco Grand Prix,Pilote Inconnu,10,10,10,10,1.0,77,,,41,13,1:15.331,159.472,+1 Lap
+2021,Monaco Grand Prix,Pilote Inconnu,14,11,11,11,0.0,77,,,55,9,1:14.971,160.237,+1 Lap
+2021,Monaco Grand Prix,Ricciardo,12,12,12,12,0.0,77,,,43,4,1:14.578,161.082,+1 Lap
+2021,Monaco Grand Prix,Alonso,17,13,13,13,0.0,77,,,70,10,1:15.026,160.120,+1 Lap
+2021,Monaco Grand Prix,Russell,15,14,14,14,0.0,77,,,59,15,1:15.539,159.033,+1 Lap
+2021,Monaco Grand Prix,Pilote Inconnu,18,15,15,15,0.0,77,,,66,16,1:15.573,158.961,+1 Lap
+2021,Monaco Grand Prix,Tsunoda,16,16,16,16,0.0,77,,,66,2,1:14.037,162.259,+1 Lap
+2021,Monaco Grand Prix,Pilote Inconnu,19,17,17,17,0.0,75,,,64,19,1:16.866,156.287,+3 Laps
+2021,Monaco Grand Prix,Pilote Inconnu,20,18,18,18,0.0,75,,,51,18,1:16.425,157.189,+3 Laps
+2021,Monaco Grand Prix,Bottas,3,,R,19,0.0,29,,,18,17,1:15.706,158.682,Wheel nut
+2021,Monaco Grand Prix,Leclerc,1,,W,20,0.0,0,,,,0,,,Driveshaft

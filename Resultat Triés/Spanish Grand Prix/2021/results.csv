@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,Spanish Grand Prix,Hamilton,1,1,1,1,25.0,66,1:33:07.680,5587680,54,5,1:20.665,208.640,Finished
+2021,Spanish Grand Prix,Verstappen,2,2,2,2,19.0,66,+15.841,5603521,62,1,1:18.149,215.357,Finished
+2021,Spanish Grand Prix,Bottas,3,3,3,3,15.0,66,+26.610,5614290,65,2,1:19.430,211.884,Finished
+2021,Spanish Grand Prix,Leclerc,4,4,4,4,12.0,66,+54.616,5642296,64,4,1:20.459,209.174,Finished
+2021,Spanish Grand Prix,Pérez,8,5,5,5,10.0,66,+1:03.671,5651351,60,3,1:19.483,211.743,Finished
+2021,Spanish Grand Prix,Ricciardo,7,6,6,6,8.0,66,+1:13.768,5661448,60,10,1:21.853,205.612,Finished
+2021,Spanish Grand Prix,Sainz,6,7,7,7,6.0,66,+1:14.670,5662350,53,9,1:21.568,206.330,Finished
+2021,Spanish Grand Prix,Norris,9,8,8,8,4.0,65,,,56,7,1:21.279,207.064,+1 Lap
+2021,Spanish Grand Prix,Ocon,5,9,9,9,2.0,65,,,46,18,1:23.311,202.014,+1 Lap
+2021,Spanish Grand Prix,Gasly,12,10,10,10,1.0,65,,,64,8,1:21.375,206.820,+1 Lap
+2021,Spanish Grand Prix,Stroll,11,11,11,11,0.0,65,,,47,11,1:22.607,203.735,+1 Lap
+2021,Spanish Grand Prix,Pilote Inconnu,17,12,12,12,0.0,65,,,54,15,1:22.868,203.094,+1 Lap
+2021,Spanish Grand Prix,Pilote Inconnu,13,13,13,13,0.0,65,,,56,14,1:22.820,203.211,+1 Lap
+2021,Spanish Grand Prix,Russell,15,14,14,14,0.0,65,,,30,17,1:23.208,202.264,+1 Lap
+2021,Spanish Grand Prix,Pilote Inconnu,14,15,15,15,0.0,65,,,42,13,1:22.802,203.255,+1 Lap
+2021,Spanish Grand Prix,Pilote Inconnu,19,16,16,16,0.0,65,,,57,16,1:22.905,203.003,+1 Lap
+2021,Spanish Grand Prix,Alonso,10,17,17,17,0.0,65,,,63,6,1:21.182,207.311,+1 Lap
+2021,Spanish Grand Prix,Pilote Inconnu,18,18,18,18,0.0,64,,,54,12,1:22.637,203.661,+2 Laps
+2021,Spanish Grand Prix,Pilote Inconnu,20,19,19,19,0.0,64,,,45,19,1:24.040,200.261,+2 Laps
+2021,Spanish Grand Prix,Tsunoda,16,,R,20,0.0,6,,,5,20,1:24.825,198.408,Electrical

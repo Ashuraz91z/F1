@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2021,British Grand Prix,Hamilton,2,1,1,1,25.0,52,1:58:23.284,7103284,45,2,1:29.699,236.430,Finished
+2021,British Grand Prix,Leclerc,4,2,2,2,18.0,52,+3.871,7107155,45,5,1:30.569,234.159,Finished
+2021,British Grand Prix,Bottas,3,3,3,3,15.0,52,+11.125,7114409,45,4,1:30.524,234.275,Finished
+2021,British Grand Prix,Norris,5,4,4,4,12.0,52,+28.573,7131857,44,9,1:31.420,231.979,Finished
+2021,British Grand Prix,Ricciardo,6,5,5,5,10.0,52,+42.624,7145908,51,8,1:31.284,232.325,Finished
+2021,British Grand Prix,Sainz,10,6,6,6,8.0,52,+43.454,7146738,51,7,1:31.223,232.480,Finished
+2021,British Grand Prix,Alonso,7,7,7,7,6.0,52,+1:12.093,7175377,48,10,1:31.698,231.276,Finished
+2021,British Grand Prix,Stroll,14,8,8,8,4.0,52,+1:14.289,7177573,48,12,1:31.992,230.537,Finished
+2021,British Grand Prix,Ocon,9,9,9,9,2.0,52,+1:16.162,7179446,48,14,1:32.210,229.992,Finished
+2021,British Grand Prix,Tsunoda,16,10,10,10,1.0,52,+1:22.065,7185349,51,6,1:30.826,233.497,Finished
+2021,British Grand Prix,Gasly,11,11,11,11,0.0,52,+1:25.327,7188611,52,3,1:30.266,234.945,Finished
+2021,British Grand Prix,Russell,12,12,12,12,0.0,51,,,49,13,1:32.049,230.394,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,15,13,13,13,0.0,51,,,49,15,1:32.346,229.653,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,17,14,14,14,0.0,51,,,51,16,1:32.477,229.328,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,13,15,15,15,0.0,51,,,48,11,1:31.895,230.780,+1 Lap
+2021,British Grand Prix,Pérez,0,16,16,16,0.0,51,,,50,1,1:28.617,239.317,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,19,17,17,17,0.0,51,,,51,18,1:32.909,228.262,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,18,18,18,18,0.0,51,,,50,17,1:32.862,228.377,+1 Lap
+2021,British Grand Prix,Pilote Inconnu,8,,R,19,0.0,40,,,35,19,1:33.059,227.894,Retired
+2021,British Grand Prix,Verstappen,1,,R,20,0.0,0,,,,0,,,Collision

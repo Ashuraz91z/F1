@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Spanish Grand Prix,Verstappen,2,1,1,1,25.0,66,1:37:20.475,5840475,46,4,1:25.456,196.943,Finished
+2022,Spanish Grand Prix,Pérez,5,2,2,2,19.0,66,+13.072,5853547,55,1,1:24.108,200.099,Finished
+2022,Spanish Grand Prix,Russell,4,3,3,3,15.0,66,+32.927,5873402,53,3,1:24.636,198.851,Finished
+2022,Spanish Grand Prix,Sainz,3,4,4,4,12.0,66,+45.208,5885683,49,7,1:25.985,195.731,Finished
+2022,Spanish Grand Prix,Hamilton,6,5,5,5,10.0,66,+54.534,5895009,51,2,1:24.253,199.755,Finished
+2022,Spanish Grand Prix,Bottas,7,6,6,6,8.0,66,+59.976,5900451,36,8,1:26.395,194.802,Finished
+2022,Spanish Grand Prix,Ocon,12,7,7,7,6.0,66,+1:15.397,5915872,54,6,1:25.935,195.845,Finished
+2022,Spanish Grand Prix,Norris,11,8,8,8,4.0,66,+1:23.235,5923710,53,5,1:25.619,196.568,Finished
+2022,Spanish Grand Prix,Alonso,20,9,9,9,2.0,65,,,56,9,1:26.599,194.344,+1 Lap
+2022,Spanish Grand Prix,Tsunoda,13,10,10,10,1.0,65,,,59,10,1:26.828,193.831,+1 Lap
+2022,Spanish Grand Prix,Pilote Inconnu,16,11,11,11,0.0,65,,,59,18,1:27.629,192.059,+1 Lap
+2022,Spanish Grand Prix,Ricciardo,9,12,12,12,0.0,65,,,54,15,1:27.285,192.816,+1 Lap
+2022,Spanish Grand Prix,Gasly,14,13,13,13,0.0,65,,,51,12,1:26.987,193.477,+1 Lap
+2022,Spanish Grand Prix,Pilote Inconnu,10,14,14,14,0.0,65,,,32,16,1:27.447,192.459,+1 Lap
+2022,Spanish Grand Prix,Stroll,17,15,15,15,0.0,65,,,54,11,1:26.876,193.724,+1 Lap
+2022,Spanish Grand Prix,Pilote Inconnu,19,16,16,16,0.0,64,,,52,14,1:27.246,192.902,+2 Laps
+2022,Spanish Grand Prix,Magnussen,8,17,17,17,0.0,64,,,3,17,1:27.537,192.261,+2 Laps
+2022,Spanish Grand Prix,Albon,18,18,18,18,0.0,64,,,56,19,1:28.281,190.641,+2 Laps
+2022,Spanish Grand Prix,Zhou,15,,R,19,0.0,28,,,12,20,1:28.415,190.352,Power loss
+2022,Spanish Grand Prix,Leclerc,1,,R,20,0.0,27,,,25,13,1:27.030,193.381,Turbo

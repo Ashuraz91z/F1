@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2023,Canadian Grand Prix,Verstappen,1,1,1,1,25.0,70,1:33:58.348,5638348,68,3,1:15.594,207.683,Finished
+2023,Canadian Grand Prix,Alonso,2,2,2,2,18.0,70,+9.570,5647918,62,4,1:15.779,207.176,Finished
+2023,Canadian Grand Prix,Hamilton,3,3,3,3,15.0,70,+4.598,5642946,47,2,1:15.396,208.228,Finished
+2023,Canadian Grand Prix,Leclerc,10,4,4,4,12.0,70,+18.648,5656996,47,5,1:15.907,206.826,Finished
+2023,Canadian Grand Prix,Sainz,11,5,5,5,10.0,70,+21.540,5659888,47,6,1:15.911,206.815,Finished
+2023,Canadian Grand Prix,Pérez,12,6,6,6,9.0,70,+51.028,5689376,70,1,1:14.481,210.786,Finished
+2023,Canadian Grand Prix,Albon,9,7,7,7,6.0,70,+1:00.813,5699161,68,16,1:16.917,204.110,Finished
+2023,Canadian Grand Prix,Ocon,6,8,8,8,4.0,70,+1:01.692,5700040,63,15,1:16.782,204.469,Finished
+2023,Canadian Grand Prix,Stroll,16,9,9,9,2.0,70,+1:04.402,5702750,58,10,1:16.564,205.051,Finished
+2023,Canadian Grand Prix,Bottas,14,10,10,10,1.0,70,+1:04.432,5702780,52,12,1:16.625,204.888,Finished
+2023,Canadian Grand Prix,Piastri,8,11,11,11,0.0,70,+1:05.101,5703449,59,11,1:16.598,204.960,Finished
+2023,Canadian Grand Prix,Gasly,15,12,12,12,0.0,70,+1:05.249,5703597,67,9,1:16.425,205.424,Finished
+2023,Canadian Grand Prix,Norris,7,13,13,13,0.0,70,+1:08.363,5706711,65,8,1:16.374,205.562,Finished
+2023,Canadian Grand Prix,Tsunoda,19,14,14,14,0.0,70,+1:13.423,5711771,68,14,1:16.666,204.779,Finished
+2023,Canadian Grand Prix,Hülkenberg,5,15,15,15,0.0,69,,,37,19,1:17.232,203.278,+1 Lap
+2023,Canadian Grand Prix,Zhou,20,16,16,16,0.0,69,,,58,17,1:17.090,203.652,+1 Lap
+2023,Canadian Grand Prix,Magnussen,13,17,17,17,0.0,69,,,55,7,1:16.126,206.231,+1 Lap
+2023,Canadian Grand Prix,Pilote Inconnu,17,18,18,18,0.0,69,,,52,13,1:16.656,204.805,+1 Lap
+2023,Canadian Grand Prix,Russell,4,,R,19,0.0,53,,,44,18,1:17.097,203.634,Brakes
+2023,Canadian Grand Prix,Sargeant,18,,R,20,0.0,6,,,4,20,1:18.437,200.155,Engine

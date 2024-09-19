@@ -1,0 +1,21 @@
+year,raceName,driverName,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+2022,Singapore Grand Prix,Pérez,2,1,1,1,25.0,59,2:02:20.238,7340238,57,2,1:48.165,168.509,Finished
+2022,Singapore Grand Prix,Leclerc,1,2,2,2,18.0,59,+2.595,7342833,54,4,1:48.753,167.598,Finished
+2022,Singapore Grand Prix,Sainz,4,3,3,3,15.0,59,+10.305,7350543,59,3,1:48.414,168.122,Finished
+2022,Singapore Grand Prix,Norris,6,4,4,4,12.0,59,+21.133,7361371,56,6,1:49.212,166.893,Finished
+2022,Singapore Grand Prix,Ricciardo,16,5,5,5,10.0,59,+53.282,7393520,57,12,1:51.006,164.196,Finished
+2022,Singapore Grand Prix,Stroll,11,6,6,6,8.0,59,+56.330,7396568,58,7,1:50.283,165.272,Finished
+2022,Singapore Grand Prix,Verstappen,8,7,7,7,6.0,59,+58.825,7399063,52,5,1:49.142,167.000,Finished
+2022,Singapore Grand Prix,Pilote Inconnu,13,8,8,8,4.0,59,+1:00.032,7400270,58,11,1:50.669,164.696,Finished
+2022,Singapore Grand Prix,Hamilton,3,9,9,9,2.0,59,+1:01.515,7401753,58,10,1:50.622,164.766,Finished
+2022,Singapore Grand Prix,Gasly,7,10,10,10,1.0,59,+1:09.576,7409814,56,9,1:50.569,164.845,Finished
+2022,Singapore Grand Prix,Bottas,15,11,11,11,0.0,59,+1:28.844,7429082,52,13,1:51.864,162.937,Finished
+2022,Singapore Grand Prix,Magnussen,9,12,12,12,0.0,59,+1:32.610,7432848,59,14,1:52.067,162.641,Finished
+2022,Singapore Grand Prix,Pilote Inconnu,12,13,13,13,0.0,58,,,58,8,1:50.290,165.262,+1 Lap
+2022,Singapore Grand Prix,Russell,0,14,14,14,0.0,57,,,54,1,1:46.458,171.211,+2 Laps
+2022,Singapore Grand Prix,Tsunoda,10,,R,15,0.0,34,,,32,15,1:58.716,153.532,Accident
+2022,Singapore Grand Prix,Ocon,17,,R,16,0.0,26,,,24,17,2:01.105,150.504,Engine
+2022,Singapore Grand Prix,Albon,18,,R,17,0.0,25,,,24,18,2:02.121,149.251,Collision damage
+2022,Singapore Grand Prix,Alonso,5,,R,18,0.0,20,,,19,16,2:00.463,151.306,Engine
+2022,Singapore Grand Prix,Pilote Inconnu,19,,R,19,0.0,7,,,5,20,2:05.585,145.135,Collision damage
+2022,Singapore Grand Prix,Zhou,14,,R,20,0.0,6,,,5,19,2:05.556,145.168,Collision
